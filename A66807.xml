@@ -1,0 +1,3937 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gout raptures Astromachia, or, An historical fiction of a war among the stars : wherin are mentioned the 7 planets, the 12 signs of the Zodiack, and the 50 constellations of heaven mentioned by the ancients : also several eminent stars, and the most principal parts and lines of the celestial globe, with their natures and uses, are pointed at : useful for such as apply themselves to the study of astronomy and the celestial globe / by Robert Witty ...</title>
+            <author>Wittie, Robert, 1613?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66807</idno>
+            <idno type="STC">Wing W3228</idno>
+            <idno type="STC">ESTC R7892</idno>
+            <idno type="EEBO-CITATION">13725242</idno>
+            <idno type="OCLC">ocm 13725242</idno>
+            <idno type="VID">101581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 855:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gout raptures Astromachia, or, An historical fiction of a war among the stars : wherin are mentioned the 7 planets, the 12 signs of the Zodiack, and the 50 constellations of heaven mentioned by the ancients : also several eminent stars, and the most principal parts and lines of the celestial globe, with their natures and uses, are pointed at : useful for such as apply themselves to the study of astronomy and the celestial globe / by Robert Witty ...</title>
+                  <author>Wittie, Robert, 1613?-1684.</author>
+               </titleStmt>
+               <extent>[14], 44, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes ... and are to be sold by John Creed ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verses in English, Latin, and Greek.</note>
+                  <note>The title "Astromachia" transliterated from Greek.</note>
+                  <note>Errata: p. [3] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101581:1" rendition="simple:additions"/>
+            <pb facs="tcp:101581:1" rendition="simple:additions"/>
+            <p>
+               <hi>Gout Raptures.</hi> ΑΣΤΡΟΜΑΧΙΑ. OR AN Hiſtorical Fiction OF A War among the Stars: Wherein are mentioned the 7 Planets, the 12 Signs of the Zodiack, and the 50 Conſtellati<g ref="char:EOLhyphen"/>ons of Heaven mentioned by the Ancients. Alſo ſeveral eminent Stars, and the moſt principal parts and lines of the Celeſtial Globe with their Natures and Uſes are pointed at. Uſeful for ſuch as apply themſelves to the Study of Aſtronomy, and the Celeſtial Globe. By <hi>Robert Witty,</hi> Dr. in Phyſick.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>John Hayes,</hi> Printer to the Univerſity and are to be ſold by <hi>John Creed,</hi> Bookſeller. 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101581:2" rendition="simple:additions"/>
+            <pb facs="tcp:101581:2"/>
+            <head>To my friendly Reader.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing in a fit of the Gout in my hands and feet, ſo as I could not handle a pen, or turn over the leaves of a Book, I happen'd to fall into a con<g ref="char:EOLhyphen"/>templation of the Celeſtial bodies, to wit, the Stars and Conſtellations in Heaven, with their Motions, Aſpects and other accidents that are aſcrib'd to them by Aſtronomers; and the Subject running much in my mind, I fancied that it might be pleaſant to make an Hiſtoricall fiction of a war among the Stars, and not improperly, ſince all Aſtronomers do agree that there are inimicitious Aſpects among them, as well as amicable; and the nature and in<g ref="char:EOLhyphen"/>fluences which are ordinarily aſcrib'd to them, whether they be the Planets or fixed Conſtel<g ref="char:EOLhyphen"/>lations, render them as contrary each to other.</p>
+            <p>This ſet my fancy on work to invent an oc<g ref="char:EOLhyphen"/>caſion of difference among them; Now <hi>Sa<g ref="char:EOLhyphen"/>turn</hi>
+               <pb facs="tcp:101581:3" rendition="simple:additions"/>being call'd by Aſtronomers <hi>Infortunium majus,</hi> (or the great misfortune) and <hi>Capri<g ref="char:EOLhyphen"/>corn</hi> his day-houſe being in <hi>Oppoſition</hi> to <hi>Can<g ref="char:EOLhyphen"/>cer,</hi> where the <hi>Moon</hi> is ſaid to be the Lady, and to be moſt dignified, or to have the chief Do<g ref="char:EOLhyphen"/>minion, I pitched the breach of peace in the <hi>Oppoſition</hi> that is betwixt thoſe two Houſes, which are ordinarily called the two Tropicks, and conſequently in his <hi>Oppoſition</hi> to <hi>Luna,</hi> as quarrelling at her ruling of the Night be<g ref="char:EOLhyphen"/>cauſe of her female Sex, and ſo at all the reſt of that Sex in Heaven; and thereupon to for<g ref="char:EOLhyphen"/>tifie himſelf in <hi>Capricorn</hi> and <hi>Aquarius,</hi> which is the next Sign, and call'd his night-houſe: And <hi>Mars</hi> whom Aſtronomers call <hi>Infortunium minus</hi> (or the leſs misfortune) to come into Conſpiracy with him, as alſo the great <hi>Centaure</hi> a Southern Conſtellation, conſiſting of a great many eminent Stars; and theſe to bring in forces from their ſeveral Quarters, unto the Conſpiracy of <hi>Saturn.</hi>
+            </p>
+            <p>
+               <hi>Luna</hi> being in <hi>Cancer</hi> riſes in <hi>Oppoſition, Ju<g ref="char:EOLhyphen"/>piter</hi> which is the principal Star of all and call'd <hi>Fortuna major</hi> (or the greater Fortune) is ſtartled at it, and ſends forth his Scouts the <hi>Eagle</hi> and the <hi>little Dog</hi> to make diſcovery of them. Then he call'd a Council of all the Conſtellations that bear the Names of men,
+<pb facs="tcp:101581:3"/>ſome of which we find mentioned in the Scriptures.</p>
+            <p>By their advice he raiſes two Armies, the one a ſtanding Army, of the fixed Stars, the o<g ref="char:EOLhyphen"/>ther a flying Army of the Planets; The War is proclaimed by the roaring of the Lion, and ſeconded by all the Celeſtial Cattle and Birds, who do every one ſend forth an Alarm in their proper tones. Then he ſets upon the Rebels, to whom he found joyn'd in confederacy all the Fiends of Hell, and the Idols and Heathen gods in <hi>Taurus,</hi> who had now declar'd ano<g ref="char:EOLhyphen"/>ther cauſe of the war.</p>
+            <p>Then began the fight, where <hi>Jupiter</hi> did ſevere execution upon the Confederates, and then purſued the Rebels, who fly before him from Sign to Sign, till coming in <hi>Scorpio,</hi> (which is ſaid by Aſtronomers to reſpect the Secrets, and to incline thoſe in whoſe Nativi<g ref="char:EOLhyphen"/>ties it happens to be in the Horoſcope unto luſt) <hi>Cupid</hi> with an inchanted Arrow, which he is fain'd to ſhoot of <hi>Sagittary</hi> (which is a Sign form'd in the Globe like an Archer) into the Sign <hi>Scorpio,</hi> puts an end to the war, and by force of th' enchantment they fall in Love one with another. <hi>Mars</hi> and <hi>Venus</hi> are in Conjunction: <hi>Mercury</hi> prefers <hi>Cupid</hi> before
+<pb facs="tcp:101581:4" rendition="simple:additions"/>all the Gods; <hi>Vulean</hi> takes <hi>Mars</hi> and <hi>Venus</hi> in his net; <hi>Jupiter</hi> courts <hi>Danae</hi> and <hi>Alcumena; Saturn</hi> courts <hi>Luna;</hi> ſhe applies to <hi>Sol,</hi> who is King of the Planets, and of all the reſt of the Stars, and is fancied to have been chaced out of Heaven, till <hi>Jupiter</hi> had gone through the 12 Signs to ſcour out the Rebels, who he does paſs through in the ſpace of 12 years. <hi>Sol</hi> by a Northern Conſtellation is called home again, and by degrees ſetles all things in peace and quietneſs.</p>
+            <p>In many things the Story may ſeem to run parallel to the late Tranſactions in this King<g ref="char:EOLhyphen"/>dom, eſpecially towards the latter end, refer<g ref="char:EOLhyphen"/>ring to his Majeſties moſt happy Reſtauration, and many circumſtances that attended it, al<g ref="char:EOLhyphen"/>though it cannot be expected that Similitudes ſhould run of four feet, and quadrate in every punctilio: And herein I hope the Fancy will offend no man, eſpecially not my Superiours, whom in every capacity I profeſs my ſelf rea<g ref="char:EOLhyphen"/>dy to ſerve, and do endeavour never to diſ<g ref="char:EOLhyphen"/>oblige.</p>
+            <p>But in this fain'd Story I have taken occa<g ref="char:EOLhyphen"/>ſion to mention all the Planets, with their Na<g ref="char:EOLhyphen"/>tures and Properties, the 12 Signs of the Zo<g ref="char:EOLhyphen"/>diack, and the 50 Conſtellations which were noted by the Ancients, eſpecially by <hi>Aratus</hi> the Greek Poet in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb facs="tcp:101581:4"/>
+            <p>I add alſo ſome other Names of principal Stars, and other parts of Heaven real and ima<g ref="char:EOLhyphen"/>ginary, whereof frequent mention is made by Aſtronomers in their writings; likewiſe I point at ſeveral of the principal Lines and parts of the Celeſtial Globe, which being brought into Order by way of Hiſtory (though fain'd) may conduce to help the memory in the ſtudy of Aſtronomy, and the uſe of the Globe. And this I have done in Engliſh, Latine and Greek with propriety of words according to my mo<g ref="char:EOLhyphen"/>dule. And the fancy being projected, and a great many Staves made while I was in the Gout, I call <hi>Gout Raptures,</hi> which afterwards as my other occaſions would permit, I went on with and finiſhed.</p>
+            <p>If any man ſay, it was time not ſo well ſpent as it might have been, I think ſo too, yet it was not ſo ill ſpent, as perhaps a rigid Momus or a Melancholick Perſon may ſuppoſe. <hi>Aratus</hi> whom I mention'd before to have writ on the Subject, was in high eſteem for that Poem a<g ref="char:EOLhyphen"/>mong both Ancient and Modern Writers, on which piece many Greek Writers have made their <hi>Scholia</hi> or Animadverſions, as <hi>Theon, Era<g ref="char:EOLhyphen"/>toſthenes, Ptolomy, Heſychius, Proclus, Hyginus, Achilles Tatius,</hi> and as ſome Learned Men re<g ref="char:EOLhyphen"/>port three times as many more; beſides an a<g ref="char:EOLhyphen"/>bundance of Latine Authors, as <hi>Germanicus
+<pb facs="tcp:101581:5" rendition="simple:additions"/>Ceſar, Cicero, Ovid, Avienus, Paulus Gallu<g ref="char:EOLhyphen"/>cius,</hi> &amp;c. and ſeveral of our Country-men: But above all, I find that St. <hi>Paul</hi> had not only read this Poem of his, but in his Sermon at <hi>Athens, Acts</hi> 17. <hi>ver.</hi> 28. he cites a paſſage out of it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and is part of the 5<hi rend="sup">th</hi> verſe in <hi>Aratus;</hi> which may ſuffice a<g ref="char:EOLhyphen"/>mong reaſonable men to give credit not onely to my Author, but alſo to the Subject here treated of, to wit, the Stars and Conſtellati<g ref="char:EOLhyphen"/>tions in Heaven.</p>
+            <p>If any man ſtrain at the Verſe which is not in the uſual mode, let him read the <hi>Lyrick</hi> Po<g ref="char:EOLhyphen"/>ets in Greek, who I think have taken more li<g ref="char:EOLhyphen"/>berty then I, both as to meaſure and meeter; beſides my fancy was to imitate an old ſort of verſe well known to all <hi>Cantabrigians</hi> made in Engliſh, Latine and Greek, from whence I took the Notion —</p>
+            <lg>
+               <l>
+                  <hi>I know more then</hi> Apollo,</l>
+               <l>
+                  <hi>for as he laid a ſleeping,</hi>
+               </l>
+               <l>
+                  <hi>I ſaw the Stars at mortal jars,</hi>
+               </l>
+               <l>
+                  <hi>and</hi> Vulcan <hi>was a weeping,</hi> &amp;c.</l>
+            </lg>
+            <p>and further I am ſure, I might have done the ſame much more eaſily in Heroicks, wherein I had not been bound up ſo ſtrictly to Rithm, or Meeter.</p>
+            <pb facs="tcp:101581:5"/>
+            <p>If any object that it is but a fiction, let ſuch conſider well of <hi>Jothams</hi> Parable, <hi>Judges 9.</hi> or of the Story of <hi>Dives</hi> and <hi>Lazarus,</hi> and ſeve<g ref="char:EOLhyphen"/>ral which might be mention'd; nothing being more uſual both in Sacred and Profane writings, then to teach by way of fictions, and point out ſerious things in Parables. Thus we find the Learning of the Ancients did conſiſt very much in Mythologie, and ours is imploy'd in the fre<g ref="char:EOLhyphen"/>quent uſe of Tropes and Figures, which with<g ref="char:EOLhyphen"/>out the annulling of that moſt noble Art of Rhetorick, we cannot lay aſide.</p>
+            <p>If any man quarrel at ſome unpoliſht ex<g ref="char:EOLhyphen"/>preſſions in the Engliſh Copy, which he fan<g ref="char:EOLhyphen"/>cies might have been better phraſed; Let ſuch know, I am not conceited of any thing here ſaid, nor had he been troubled with the view of them, if I had not been overcome with the importunity of ſome friends of ſufficient Learn<g ref="char:EOLhyphen"/>ing, who thought they might be uſeful to the publick, which we ought all to ſerve; But I do expreſs my ſelf and my ſenſe of things in ſuch words, as did then beſt ſute my <hi>Genius,</hi> that the three Languages might explain one a<g ref="char:EOLhyphen"/>nother. Beſides it may be I do purpoſely make choice of ſuch Expreſſions to point out ſome Terms of Art, referring to Aſtronomy, or ſomewhat in the Globe which I deſign to ex<g ref="char:EOLhyphen"/>plicate, and then I hold to the ſenſe in all the
+<pb facs="tcp:101581:6" rendition="simple:additions"/>verſions, reſerving to each Language its pro<g ref="char:EOLhyphen"/>per Idiome: And herein I do willingly ſubmit to the judgment of ſuch as underſtand them all, rather then to the carping cenſure of ſuch as know nothing more then their own Mothers tongue.</p>
+            <p>Take it as it is, if it may profit or delight any ingenious Reader, I have my deſign; and if by endeavours herein I do but little good to others, yet this is great good to me, that by my labour herein I have kept my ſelf in Acti<g ref="char:EOLhyphen"/>on, and ſo do neither hurt to others, nor re<g ref="char:EOLhyphen"/>ceive any to my ſelf. In the mean time as I ſpent not much time in doing it (for I did it at idle hours, and in my journeys) ſo thereby I imploy'd my fancy in the ſtudy of the Globe, and of the Languages, eſpecially of the Greek, wherein I ſhould be glad ſtill to make further improvement.</p>
+            <div type="list_of_planets">
+               <pb facs="tcp:101581:6"/>
+               <list>
+                  <head>The names of the Planets with their Characters.</head>
+                  <item>♄ Saturn</item>
+                  <item>♃ Jupiter</item>
+                  <item>♂ Mars</item>
+                  <item>☉ Sol</item>
+                  <item>♀ Venus</item>
+                  <item>☿ Mercury.</item>
+                  <item>
+                     <g ref="char:Moon">☽</g> Luna.</item>
+               </list>
+            </div>
+            <div type="list_of_zodiac_signs">
+               <list>
+                  <head>The names of the twelve Sìgns of the Zo<g ref="char:EOLhyphen"/>diack with their Characters.</head>
+                  <item>♈ Aries</item>
+                  <item>♉ Taurus</item>
+                  <item>♊ Gemini</item>
+                  <item>♋ Cancer</item>
+                  <item>♌ Leo</item>
+                  <item>♍ Virgo</item>
+                  <item>♎ Libra</item>
+                  <item>♏ Scorpio</item>
+                  <item>♐ Sagittarius</item>
+                  <item>♑ Capricornus</item>
+                  <item>♒ Aquarius</item>
+                  <item>♓ Piſces.</item>
+               </list>
+            </div>
+            <div type="list_of_constellations">
+               <pb facs="tcp:101581:7" rendition="simple:additions"/>
+               <list>
+                  <head>The names of the reſt of the fixed Conſtella<g ref="char:EOLhyphen"/>tions, as they come in Order in the Story:</head>
+                  <item>Caſſiopeia's Chair</item>
+                  <item>Ariadne's Crown</item>
+                  <item>Andromeda</item>
+                  <item>Berenice's Hair</item>
+                  <item>The Centaure</item>
+                  <item>The Eagle</item>
+                  <item>The little Dog</item>
+                  <item>Antinous</item>
+                  <item>Arcturus</item>
+                  <item>Orion</item>
+                  <item>Ophiucus</item>
+                  <item>Caſtor</item>
+                  <item>Pollux</item>
+                  <item>Arctophylax</item>
+                  <item>Cepheus</item>
+                  <item>Heniochus</item>
+                  <item>The Horſe. 1. Pegaſus</item>
+                  <item>The 2 Dogs</item>
+                  <item>The 2 Bears</item>
+                  <item>The Wolf</item>
+                  <item>The Dragon</item>
+                  <item>The Goat</item>
+                  <item>The Hare</item>
+                  <item>The Serpent,</item>
+                  <item>The Crow</item>
+                  <item>The Swan</item>
+                  <item>The Crane</item>
+                  <item>The Vultur</item>
+                  <item>The Dove</item>
+                  <item>The Peacock</item>
+                  <item>The Phaenix</item>
+                  <item>The Altar</item>
+                  <item>The Pleiades</item>
+                  <item>The Hyades.</item>
+                  <item>The River. Eridanus</item>
+                  <item>The Arrow, or dart</item>
+                  <item>Perſeus</item>
+                  <item>The Gorgons head (1. Me<g ref="char:EOLhyphen"/>duſa</item>
+                  <item>Hercules.</item>
+                  <item>Noahs Ark, or the Ship</item>
+                  <item>Boôtes</item>
+                  <item>The milky way</item>
+                  <item>The Viall</item>
+                  <item>The Southern Fiſhes</item>
+                  <item>The Dolphin</item>
+                  <item>The Whale</item>
+                  <item>The Northern Crown</item>
+                  <item>The Cup</item>
+                  <item>The Triangle.</item>
+               </list>
+            </div>
+            <div type="list_of_cosmological_features">
+               <pb facs="tcp:101581:7"/>
+               <head>Several principal Stars, and parts of Heaven which are occaſionally mentioned, together with other lines and parts of the Globe, which do frequently occur in the writings of Aſtronomers.</head>
+               <list>
+                  <head>Stars of prime magnitude.</head>
+                  <item>
+                     <hi>The Dog-ſtar</hi>
+                  </item>
+                  <item>
+                     <hi>Aldebaran.</hi> 1. <hi>Bulls eye</hi>
+                  </item>
+                  <item>
+                     <hi>The Virgins Spike</hi>
+                  </item>
+                  <item>
+                     <hi>The Scorpions heart</hi>
+                  </item>
+                  <item>
+                     <hi>Arcturus</hi>
+                  </item>
+                  <item>
+                     <hi>Boôtes</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>A Planet may be</head>
+                  <item>
+                     <hi>Direct</hi>
+                  </item>
+                  <item>
+                     <hi>Stationary</hi>
+                  </item>
+                  <item>
+                     <hi>Retrograde.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Planets have their</head>
+                  <item>
+                     <hi>Houſes</hi>
+                  </item>
+                  <item>
+                     <hi>Exaltations</hi>
+                  </item>
+                  <item>
+                     <hi>Detriments</hi>
+                  </item>
+                  <item>
+                     <hi>Falls.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <g ref="char:Moon">☽</g> 
+                     <hi>has</hi> 3 <hi>motions</hi>
+                  </head>
+                  <item>
+                     <hi>Slow</hi>
+                  </item>
+                  <item>
+                     <hi>Mean</hi>
+                  </item>
+                  <item>
+                     <hi>Rapid.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Tropicks</hi> 2</head>
+                  <item>
+                     <hi>Caneer</hi>
+                  </item>
+                  <item>
+                     <hi>Capricorn.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:101581:8" rendition="simple:additions"/>
+               <list>
+                  <head>The Spheres and Orbs of the Planets. Ma<g ref="char:EOLhyphen"/>zaroth. 1. The 12 Signs. Zodiack. 1. The Circle of the 12 Signs wherein the Planets move</head>
+                  <item>
+                     <hi>Hemiſpheres</hi> 2</item>
+                  <item>
+                     <hi>Zones</hi> 5</item>
+                  <item>
+                     <hi>Poles</hi> 2.</item>
+               </list>
+               <list>
+                  <head>Imaginary lines</head>
+                  <item>
+                     <hi>Ecliptick</hi>
+                  </item>
+                  <item>
+                     <hi>Aequinoctial</hi>
+                  </item>
+                  <item>
+                     <hi>Horizontal</hi>
+                  </item>
+                  <item>
+                     <hi>Meridian</hi>
+                  </item>
+                  <item>
+                     <hi>Parallel.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Imaginary parts.</head>
+                  <item>☊ <hi>Dragons head</hi>
+                  </item>
+                  <item>☋ <hi>Dragens tail</hi>
+                  </item>
+                  <item>⚹ <hi>Part of Fortune.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <div xml:lang="eng" type="version">
+               <pb n="1" facs="tcp:101581:8"/>
+               <head>Gout Raptures.</head>
+               <lg n="1">
+                  <l>
+                     <note place="margin">♑ Capricorn.</note>1. IN <hi>Capricorn</hi> old <hi>Saturn</hi>
+                  </l>
+                  <l>
+                     <note place="margin">♄ <hi>Saturn</hi> the great misfor<g ref="char:EOLhyphen"/>tune.</note>the worſt of all the ſeven,</l>
+                  <l>Deſign'd the Night to rule in ſpight</l>
+                  <l>
+                     <note place="margin">♄ in ♑ his day houſe.</note>of all the Stars in Heaven.</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <note place="margin">♄ <g ref="char:Moon">☽</g> ☍</note>2. His quarrel was at <hi>Luna</hi>
+                  </l>
+                  <l>declaring his opinion,</l>
+                  <l>None could but vex that the female Sex</l>
+                  <l>ſhould hold ſo large dominion.</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <note place="margin">♋ &amp; ♑ the 2 Tropicks. Planets have their falls in which they are moſt debilita<g ref="char:EOLhyphen"/>ted.</note> 3. She loweſ of the Planets</l>
+                  <l>the other Tropick claimed,</l>
+                  <l>But down ſhe ſhall, and catch a Fall,</l>
+                  <l>and thus a war's proclaimed.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <note place="margin">
+                        <hi>Caſſiopeia</hi>'s chair, a Con<g ref="char:EOLhyphen"/>ſtellation. <hi>Ariadne</hi>'s crown, Conſt. <hi>Andromeda</hi> Conſt.</note>4. He fret that <hi>Caſſiopeia</hi>
+                  </l>
+                  <l>in a chair of ſtate was placed;</l>
+                  <l>
+                     <hi>Ariadne</hi>'s Crown he'le have pul'd down,</l>
+                  <l>
+                     <hi>Andromeda</hi> debaſed.</l>
+               </lg>
+               <lg n="5">
+                  <l>5 Nor will he ſuffer children,</l>
+                  <l>
+                     <note place="margin">♊ Twins. <hi>Berenices</hi> hair, Conſt.</note>the Twins he'le tear aſunder;</l>
+                  <l>Nor will he ſpare <hi>Bernice</hi>'s hair,</l>
+                  <l>but thus he ſpake in Thunder.</l>
+               </lg>
+               <pb n="2" facs="tcp:101581:9" rendition="simple:additions"/>
+               <lg n="6">
+                  <l>6. What! women ſo to Lord it!</l>
+                  <l>both Gods and men deſpiſe them,</l>
+                  <l>They ſhall obey, and I will ſway</l>
+                  <l>nights ſcepter, and chaſtiſe them.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <note place="margin">♒ <hi>Aquary Sa<g ref="char:EOLhyphen"/>turns</hi> night<g ref="char:EOLhyphen"/>houſe. <hi>Centaure,</hi> a Conſt.</note>7. And now he joyn'd <hi>Aquary</hi>
+                  </l>
+                  <l>and <hi>Mars</hi> brought in his forces;</l>
+                  <l>Yea what is more the great <hi>Centaure,</hi>
+                  </l>
+                  <l>and croſt the Heavens courſes.</l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <note place="margin">♂ Mars.</note>8. Malignants ſo conjoyned</l>
+                  <l>
+                     <note place="margin">♄ ♂ ☌. From the a<g ref="char:EOLhyphen"/>ſpects of the Planets comes the alteration of the wea<g ref="char:EOLhyphen"/>ther.</note>the clouds began to gather,</l>
+                  <l>The wind blew high, dark was the Sky,</l>
+                  <l>you muſt expect ill weather.</l>
+               </lg>
+               <lg n="9">
+                  <l>9. The <hi>Moon</hi> hereat was crabbed,</l>
+                  <l>
+                     <note place="margin">♋ <hi>Cancer.</hi> 
+                        <g ref="char:Moon">☽</g> in <hi>Cancer.</hi> Her proper houſe. See the La<g ref="char:EOLhyphen"/>tine verſion.</note> and roſe in <hi>Oppoſition,</hi>
+                  </l>
+                  <l>She caſt out ſcorns, and ſhew'd her horns,</l>
+                  <l>in right of her Commiſſion.</l>
+               </lg>
+               <lg n="10">
+                  <l>10. One Ray ſhe caſt on <hi>Saturn</hi>
+                  </l>
+                  <l>by ſpecial intention,</l>
+                  <l>Who by that trick fell Lunatick,</l>
+                  <l>and rag'd, as ſtories mention.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <note place="margin">♃ <hi>Jupiter</hi> the moſt eminent Star.</note>11. Now <hi>Jupiter</hi> appeared</l>
+                  <l>moſt terribly to bluſter,</l>
+                  <l>To whom no Star may once compare</l>
+                  <l>for majeſty or luſter.</l>
+               </lg>
+               <lg n="12">
+                  <l>
+                     <note place="margin">♃ <g ref="char:Moon">☽</g> ☌.</note>12. He <hi>Luna</hi>'s right aſſerted</l>
+                  <l>'gainſt all that durſt withſtand her;</l>
+                  <l>In peace and war bright <hi>Jupiter</hi>
+                  </l>
+                  <l>was principal Commander.</l>
+               </lg>
+               <pb n="3" facs="tcp:101581:9"/>
+               <lg n="13">
+                  <l>
+                     <note place="margin">♃ in ♋ his exaltation.</note>13. He knew old <hi>Saturns</hi> malice</l>
+                  <l>againſt his exaltation,</l>
+                  <l>Which to the end he will defend</l>
+                  <l>againſt the combination.</l>
+               </lg>
+               <lg n="14">
+                  <l>14. And having thus reſolved,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Eagle,</hi> a conſt.</note>he forthwith ſent the <hi>Eagle</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Little dog,</hi> a conſt.</note>To ſpy their force, to ſmell their courſe</l>
+                  <l>he next ſent out the <hi>Beagle.</hi>
+                  </l>
+               </lg>
+               <lg n="15">
+                  <l>15. She in her tone deſcrib'd them</l>
+                  <l>as more then ſhe could number;</l>
+                  <l>He<note n="*" place="margin">The Planets in their proper motions go Eaſtward through all the Signs of the Zodiack.</note> eaſtward ho! bark'd out they go,</l>
+                  <l>and all the Signs do cumber.</l>
+               </lg>
+               <lg n="16">
+                  <l>16. Forthwith he call'd a Council</l>
+                  <l>of all th' celeſtial Sages,</l>
+                  <l>Whoſe noble fame had rais'd their Name</l>
+                  <l>through all preceding Ages.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <note place="margin">Several Con<g ref="char:EOLhyphen"/>ſtellations of mens names.</note>17. <hi>Antinous, Arcturus,</hi>
+                  </l>
+                  <l>
+                     <hi>Oriou, Ophiuchus,</hi>
+                  </l>
+                  <l>
+                     <hi>Caſtor, Pollux, Arctophylax,</hi>
+                  </l>
+                  <l>
+                     <hi>Cepheus</hi> and <hi>Heniochus.</hi>
+                  </l>
+               </lg>
+               <lg n="18">
+                  <l>18. Theſe made he grand Commanders</l>
+                  <l>of his vaſt<note n="*" place="margin">Of the fixed Stars.</note> ſtanding forces,</l>
+                  <l>Whoſe reach was long, and power ſtrong</l>
+                  <l>to ſtop the Heavens courſes.</l>
+               </lg>
+               <lg n="19">
+                  <l>19. Then form'd a<note n="*" place="margin">Of the Pla<g ref="char:EOLhyphen"/>nets, or mo<g ref="char:EOLhyphen"/>ving Stars.</note> flying Army</l>
+                  <l>with which he meant to chaſe 'em,</l>
+                  <l>Of <hi>Luna, Venus, Mercury,</hi>
+                     <note place="margin">♃ <g ref="char:Moon">☽</g> ♀ ☿. ♂,</note>
+                  </l>
+                  <l>through all the Signs to trace 'em.</l>
+               </lg>
+               <pb n="4" facs="tcp:101581:10" rendition="simple:additions"/>
+               <lg n="20">
+                  <l>
+                     <note place="margin">
+                        <hi>Peacock,</hi> a conſt.</note>20. The <hi>Peacock</hi> bare the Colours</l>
+                  <l>whilſt all maintain'd their Stations,</l>
+                  <l>An <hi>azure Moon</hi> ſo often drawn</l>
+                  <l>as there are Conſtellations.</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <note place="margin">♌ Leo. <hi>Several con<g ref="char:EOLhyphen"/>ſtellations of Brutes.</hi>
+                        <list>
+                           <item>Lion.</item>
+                           <item>Horſe.</item>
+                           <item>Bull.</item>
+                           <item>Great Dog.</item>
+                           <item>Little Dog.</item>
+                           <item>Great Bear.</item>
+                           <item>Little Bear.</item>
+                           <item>Wolf.</item>
+                           <item>Dragon.</item>
+                           <item>Goat.</item>
+                           <item>Hare.</item>
+                           <item>Eagle.</item>
+                           <item>Ram.</item>
+                           <item>Serpent.</item>
+                           <item>Crow.</item>
+                           <item>Swan.</item>
+                           <item>Crane.</item>
+                           <item>Vultur.</item>
+                           <item>Dove.</item>
+                           <item>Peacock.</item>
+                        </list>
+                     </note>21. Inſtead of Drum and Trumpet</l>
+                  <l>The <hi>Lion</hi> roar'd to battel,</l>
+                  <l>Unto whoſe voice was joyn'd the noiſe</l>
+                  <l>of all th' Celeſtial Cattel.</l>
+               </lg>
+               <lg n="22">
+                  <l>22. The <hi>Horſe</hi> did neigh and whinny;</l>
+                  <l>the <hi>Bull</hi> did low and mumble;</l>
+                  <l>The <hi>Dogs</hi> did bark becauſe 'twas dark;</l>
+                  <l>and both the <hi>Bears</hi> did grumble.</l>
+               </lg>
+               <lg n="23">
+                  <l>23. Lo! here the <hi>Wolf</hi> ran howling;</l>
+                  <l>and there the <hi>Dragon</hi> yelled;</l>
+                  <l>The <hi>Goat</hi> did blare, ſqueak did the Hare;</l>
+                  <l>and there the <hi>Eagle</hi> frilled.</l>
+               </lg>
+               <lg n="24">
+                  <l>24. The fearful <hi>Ram</hi> ſtood bleating;</l>
+                  <l>the <hi>Serpent</hi> hiſs'd for ſtinging;</l>
+                  <l>The <hi>Crow</hi> did croke as ſhe would choke;</l>
+                  <l>the <hi>Swan</hi> her knell was ſinging.</l>
+               </lg>
+               <lg n="25">
+                  <l>25. The long-bill'd <hi>Crane</hi> did chatter;</l>
+                  <l>the <hi>Vulture</hi> chides ſeverely;</l>
+                  <l>The <hi>Dove</hi> did mourn at every turn,</l>
+                  <l>the <hi>Peacock</hi> ſhrieckt moſt clearly.</l>
+               </lg>
+               <lg n="26">
+                  <l>
+                     <note place="margin">
+                        <hi>Phenix,</hi> a con<g ref="char:EOLhyphen"/>ſtel.</note>26. And now the matchleſs <hi>Phenix</hi>
+                  </l>
+                  <l>upon the <hi>Altar</hi> flamed,</l>
+                  <l>
+                     <note place="margin">Altar, a conſt.</note>Yet from that duſt ariſe there muſt</l>
+                  <l>another Bird ſo named.</l>
+               </lg>
+               <pb n="5" facs="tcp:101581:10"/>
+               <lg n="27">
+                  <l>27. O th' horrible confuſion</l>
+                  <l>that now the Heavens rended!</l>
+                  <l>Here ſprang I fee th' Antipathy</l>
+                  <l>that never ſhall be ended.</l>
+               </lg>
+               <lg n="28">
+                  <l>28. In ſtead of Pike and Piſtol</l>
+                  <l>they fought in fiery flaſhes,</l>
+                  <l>What's Cannon proof they pierced through</l>
+                  <l>no Sword can make ſuch gaſhes.</l>
+               </lg>
+               <lg n="29">
+                  <l>29. And now all Parties fitted</l>
+                  <l>and among themſelves enraged,</l>
+                  <l>No mortal man deſcribe it can</l>
+                  <l>how ſharply they engaged.</l>
+               </lg>
+               <lg n="30">
+                  <l>
+                     <note place="margin">♈ <hi>Aries,</hi> denotes the face.</note>30. Into the <hi>Ram Jove</hi> skipping</l>
+                  <l>he found their Scouts and fac'd 'em,</l>
+                  <l>He charg'd the Rout, they fac'd about,</l>
+                  <l>
+                     <note place="margin">♉ Taurus,</note>and to the <hi>Bull</hi> he chac'd 'em.</l>
+               </lg>
+               <lg n="31">
+                  <l>31. Where now the Rebels Army</l>
+                  <l>fell into great diſorders,</l>
+                  <l>Declar'd their Cauſe, they like no Laws,</l>
+                  <l>nor ought on Truth that borders.</l>
+               </lg>
+               <lg n="32">
+                  <l>
+                     <note place="margin">Infernal Spi<g ref="char:EOLhyphen"/>rits Confede<g ref="char:EOLhyphen"/>rate.</note>32. Here <hi>Pluto</hi> and <hi>Proſerpine,</hi>
+                  </l>
+                  <l>with <hi>Cerberus</hi> and <hi>Charon,</hi>
+                  </l>
+                  <l>The Furies and the Harpies ſtand</l>
+                  <l>combin'd in<note n="*" place="margin">Bulls eye.</note> 
+                     <hi>Aldebaran.</hi>
+                  </l>
+               </lg>
+               <lg n="33">
+                  <l>33. They flew about and yelled,</l>
+                  <l>they helliſhly blaſphemed,</l>
+                  <l>They ſwear, they curſe, if ought be worſe,</l>
+                  <l>and all their own they deemed.</l>
+               </lg>
+               <pb n="6" facs="tcp:101581:11" rendition="simple:additions"/>
+               <lg n="34">
+                  <l>
+                     <note place="margin">Bulls of <hi>Baſan</hi> Idols.</note>34. Here all the Bulls of <hi>Baſan,</hi>
+                  </l>
+                  <l>and Calves at <hi>Dan</hi> and <hi>Bethel,</hi>
+                  </l>
+                  <l>Met in a drove to fight with <hi>Jove;</hi>
+                  </l>
+                  <l>and if ought is beneath Hell.</l>
+               </lg>
+               <lg n="35">
+                  <l>35. Now <hi>Baal, Moloch, Rimmon,</hi>
+                  </l>
+                  <l>the Idol <hi>Bel,</hi> and <hi>Dragon,</hi>
+                  </l>
+                  <l>With many moe cry'd up we go</l>
+                  <l>with <hi>Aſhtaroth</hi> and <hi>Dagon.</hi>
+                  </l>
+               </lg>
+               <lg n="36">
+                  <l>
+                     <note place="margin">Heathen gods.</note>36. The Oracles of th' Heathen,</l>
+                  <l>
+                     <hi>Pan, Bacchus</hi> and <hi>Priapus,</hi>
+                  </l>
+                  <l>Cry'd in their tone the day's our own,</l>
+                  <l>kill, kill, let none eſcape us.</l>
+               </lg>
+               <lg n="37">
+                  <l>37. They agreed in Conſultation</l>
+                  <l>no quarter to be given,</l>
+                  <l>But Truth, and Good, and Juſt they wou'd</l>
+                  <l>extirpate out of Heaven.</l>
+               </lg>
+               <lg n="38">
+                  <l>
+                     <note place="margin">Thunder and hail.</note>38. Hereat great <hi>Jove</hi> was ſtartl'd</l>
+                  <l>and terribly did thunder,</l>
+                  <l>His bolts did fly like hail i'th' sky,</l>
+                  <l>that all the world did wonder.</l>
+               </lg>
+               <lg n="39">
+                  <l>39. Now all the Hoſts of Heaven</l>
+                  <l>the Bull with flames ſurrounded;</l>
+                  <l>Within, without, and round about,</l>
+                  <l>the Bull was ſorely wounded.</l>
+               </lg>
+               <lg n="40">
+                  <l>
+                     <note place="margin">See the Latine verſion.</note>40. I ſaw him much enraged,</l>
+                  <l>and hinder parts were maimed,</l>
+                  <l>
+                     <note place="margin">Bulls eye.</note>I did eſpy when he loſt one eye,</l>
+                  <l>and th' other was inflamed.</l>
+               </lg>
+               <pb n="7" facs="tcp:101581:11"/>
+               <lg n="41">
+                  <l>41. Now fiery flames were darted</l>
+                  <l>from ev'ry Conſtellation,</l>
+                  <l>But the Dog-ſtar ſurpaſs'd by far</l>
+                  <l>all your imagination.<note place="margin">Dog-ſtar 1. <hi>Sirius.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="42">
+                  <l>42. For <hi>Siri</hi> appearing</l>
+                  <l>ſuch flames abroad he ſcatter'd,</l>
+                  <l>The ſcorching heat made them retreat,</l>
+                  <l>their Army ſo on was ſhatter'd.</l>
+               </lg>
+               <lg n="43">
+                  <l>
+                     <note place="margin">
+                        <hi>Cerberus</hi> the 3 headed Dog of Hell.</note>43. With <hi>Cerberus</hi> he grappled</l>
+                  <l>whom now he moſt diſdained,</l>
+                  <l>Fell on at once broke all his bones,</l>
+                  <l>that not a skull remained.</l>
+               </lg>
+               <lg n="44">
+                  <l>44. And ſo the Bulls of <hi>Baſan,</hi>
+                  </l>
+                  <l>and Calves that were in <hi>Jewry,</hi>
+                  </l>
+                  <l>Became likewiſe a Sacrifice</l>
+                  <l>to <hi>Sirius</hi> his fury.</l>
+               </lg>
+               <lg n="45">
+                  <l>45. The Rebells found th' encounter</l>
+                  <l>too hot to be abided,</l>
+                  <l>They fly, they fly, though ſtay muſt I</l>
+                  <l>to tell what now betided.</l>
+               </lg>
+               <lg n="46">
+                  <l>46. The Fiends to hell were damned,</l>
+                  <l>the Furies were tormented;</l>
+                  <l>He ſent <hi>Charon</hi> to <hi>Acheron,</hi>
+                  </l>
+                  <l>the Fowls the Harpies rended.</l>
+               </lg>
+               <lg n="47">
+                  <l>47. The Idols fell to nothing</l>
+                  <l>
+                     <hi>Pans</hi> Oracle's confounded;</l>
+                  <l>The <hi>Dragon</hi> burſt, <hi>Priap.</hi> was curſt,</l>
+                  <l>
+                     <hi>Bacchus</hi> in Sack was drowned.</l>
+               </lg>
+               <pb n="8" facs="tcp:101581:12" rendition="simple:additions"/>
+               <lg n="48">
+                  <l>48. The Rebels now are routed,</l>
+                  <l>and their Adjutants defeated,</l>
+                  <l>In memory of the Victory</l>
+                  <l>the <hi>Pleiades Jove</hi> ſeated:<note place="margin">
+                        <hi>Pleiades,</hi> a Conſt. in the ſhoulder of <hi>Taurus.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="49">
+                  <l>49. To be to future Ages</l>
+                  <l>a monument excelling,</l>
+                  <l>Whoſe influence reminds our ſenſe</l>
+                  <l>o'th' miſchief of rebelling.</l>
+               </lg>
+               <lg n="50">
+                  <l>
+                     <note place="margin">
+                        <hi>Hyades,</hi> a Conſt. in the face of <hi>Taurus</hi> that brings rain.</note>50. So th' <hi>Hyades</hi> he framed</l>
+                  <l>a wat'ry Conſtellation,</l>
+                  <l>To purge from thence the filth and ſtench</l>
+                  <l>left by th' Abomination.</l>
+               </lg>
+               <lg n="51">
+                  <l>51. And now let's chaſe the Rebells,</l>
+                  <l>who find no Signe can bear 'em;</l>
+                  <l>And though they try, they'r forc'd to fly,</l>
+                  <l>yea oft when none comes neer 'em.</l>
+               </lg>
+               <lg n="52">
+                  <l>52. The more their Numbers leſſen</l>
+                  <l>the more their wrath's augmented;<note place="margin">
+                        <hi>Zodiack.</hi> 1. the circle of the 12 Signs.</note>
+                  </l>
+                  <l>They ſoon would wrack the <hi>Zodiack,</hi>
+                  </l>
+                  <l>if not by <hi>Jove</hi> prevented.</l>
+               </lg>
+               <lg n="53">
+                  <l>
+                     <note place="margin">See the La<g ref="char:EOLunhyphen"/>tine verſion.</note>53. To <hi>Phaethon</hi> what chanced</l>
+                  <l>they ſpitefully conſpired,</l>
+                  <l>The Heavens to burn, and t' aſhes turn</l>
+                  <l>while the <hi>Virgins ſpike</hi> they fired.<note place="margin">Virgins ſpike.</note>
+                  </l>
+               </lg>
+               <lg n="54">
+                  <l>54. Which miſchief <hi>Jove</hi> prevented</l>
+                  <l>by calling up a River,<note place="margin">River. 1. <hi>Eri<g ref="char:EOLhyphen"/>danus,</hi> a Conſt.</note>
+                  </l>
+                  <l>Whoſe wat'ry ſtreams did quench the flames,</l>
+                  <l>and there 'twill flow for ever.</l>
+               </lg>
+               <pb n="9" facs="tcp:101581:12"/>
+               <lg n="55">
+                  <l>
+                     <note place="margin">♎ Libra.</note>55. They fly next into <hi>Libra,</hi>
+                  </l>
+                  <l>where now they ſadly ponder</l>
+                  <l>Unto what fate they're deſtinate</l>
+                  <l>for this their wofull blunder.</l>
+               </lg>
+               <lg n="56">
+                  <l>
+                     <note place="margin">♍ <hi>Scorpio</hi> rules the Secrets.</note>56. And now they enter <hi>Scorpio</hi>
+                  </l>
+                  <l>where all their heat's abated,</l>
+                  <l>The heat within that caus'd the din</l>
+                  <l>to an other Part's tranſlated.</l>
+               </lg>
+               <lg n="57">
+                  <l>
+                     <note place="margin">
+                        <hi>Cupid</hi> the god of Love.</note>57. For <hi>Cupid</hi> who'd ſate fretting</l>
+                  <l>at all this noyſe and ſlaughter,</l>
+                  <l>Found out a way to end the fray,</l>
+                  <l>and turn't to ſport and laughter.</l>
+               </lg>
+               <lg n="58">
+                  <l>
+                     <note place="margin">♐ <hi>Sagittarius,</hi> Dart, or Ar<g ref="char:EOLhyphen"/>row, a Conſt. <hi>Scorpions heart,</hi> a Star of the 2<hi rend="sup">d</hi> magnitude.</note>58. Being ſet in <hi>Sagittary,</hi>
+                  </l>
+                  <l>he ſhot from's charmed quiver</l>
+                  <l>A fiery dart to th' <hi>Scorpions heart,</hi>
+                  </l>
+                  <l>which made a Star for ever.</l>
+               </lg>
+               <lg n="59">
+                  <l>59. From whence all thoſe young natives</l>
+                  <l>by th' <hi>Scorpion</hi> directed,</l>
+                  <l>In luſt and heat are duplicate,</l>
+                  <l>and all to ſport reſpected.</l>
+               </lg>
+               <lg n="60">
+                  <l>
+                     <note place="margin">♀ <hi>Venus</hi> is charmed.</note>60. Here <hi>Venus</hi> ſaw them flying,</l>
+                  <l>deſign'dly done to hook her;</l>
+                  <l>She unawares gave chace to <hi>Mars,</hi>
+                     <note place="margin">♂ <hi>Mars</hi> is ſta<g ref="char:EOLhyphen"/>tionary.</note>
+                  </l>
+                  <l>who made a ſtand, and took her.</l>
+               </lg>
+               <lg n="61">
+                  <l>
+                     <note place="margin">♍ the night-houſe of <hi>Mars,</hi> and ♉ the day-houſe of <hi>Venus</hi> are oppoſite Signs. ♂ ♀ ☌.</note>61. Thus taken in his Quarters</l>
+                  <l>ſure none to him was dearer,</l>
+                  <l>By how much more diſtanc'd before</l>
+                  <l>ſo much they joyn'd the nearer.</l>
+               </lg>
+               <pb n="10" facs="tcp:101581:13" rendition="simple:additions"/>
+               <lg n="62">
+                  <l>
+                     <note place="margin">
+                        <hi>Vulcan</hi> the Husband of <hi>Venus.</hi>
+                     </note>62. Now <hi>Vulcan</hi> guard thy noddle,</l>
+                  <l>make haſte and leave thy limping,</l>
+                  <l>Prevent thy Fate ere't be too late,</l>
+                  <l>for <hi>Mercury</hi> is pimping.<note place="margin">☿ <hi>Mercury</hi> is charmed.</note>
+                  </l>
+               </lg>
+               <lg n="63">
+                  <l>
+                     <note place="margin">He is the Ora<g ref="char:EOLhyphen"/>tor among the Gods. See the, Latine con<g ref="char:EOLhyphen"/>cerning <hi>Cupid.</hi>
+                     </note>63. Upon a Pole high perched</l>
+                  <l>he made a ſly Oration,</l>
+                  <l>Fore all the Gods he gave the odds</l>
+                  <l>in <hi>Cupids</hi> commendation.</l>
+               </lg>
+               <lg n="64">
+                  <l>
+                     <note place="margin">
+                        <hi>Vulcans</hi> net.</note>64. And now did <hi>Vulcan</hi> haſten</l>
+                  <l>with's net he'd made for trapping,</l>
+                  <l>Unſeen i'th' night before 'twas light,</l>
+                  <l>and took the Lovers napping.</l>
+               </lg>
+               <lg n="65">
+                  <l>
+                     <note place="margin">♂ <hi>Mars</hi> is a fiery Star.</note>65. Then <hi>Mars</hi> grew red with choler,</l>
+                  <l>but <hi>Venus</hi> pale and frighted,<note place="margin">♀ <hi>Venus</hi> is pale, and appears onely in the mornings, or evenings.</note>
+                  </l>
+                  <l>She ne're ſince then was ſeen of men</l>
+                  <l>in any caſe benighted.</l>
+               </lg>
+               <lg n="66">
+                  <l>
+                     <note place="margin">♃ <hi>Jupiter</hi> is charmed.</note>66. Great <hi>Jove</hi> the charm eſcap'd not,</l>
+                  <l>whoſe wrath in Courtſhip ended;</l>
+                  <l>While that ſame hour in a golden ſhower</l>
+                  <l>to <hi>Danae</hi> he deſcended.<note place="margin">
+                        <hi>Danae,</hi> ſee the Latine.</note>
+                  </l>
+               </lg>
+               <lg n="67">
+                  <l>67. From thence he went t' <hi>Alemena,</hi>
+                     <note place="margin">Alcumena.</note>
+                  </l>
+                  <l>whom craftily he courted;</l>
+                  <l>
+                     <hi>Cupid</hi> was ſtrong if ye take along</l>
+                  <l>what<note n="*" place="margin">In <hi>Amphratuo.</hi>
+                     </note> 
+                     <hi>Plautus</hi> has reported.</l>
+               </lg>
+               <lg n="68">
+                  <l>
+                     <note place="margin">
+                        <hi>Perſeus,</hi> a con<g ref="char:EOLhyphen"/>ſtel. <hi>Gorgons</hi> head, a conſt.</note>68. Of th' one he got brave <hi>Perſeus,</hi>
+                  </l>
+                  <l>who kill'd the Snake-lock'd <hi>Gorgon;</hi>
+                  </l>
+                  <l>Of th' other of theſe came <hi>Hercules,</hi>
+                     <note place="margin">
+                        <hi>Hercules.</hi> a conſt. <hi>Dragon,</hi> a conſt.</note>
+                  </l>
+                  <l>St <hi>George</hi> who ſlew the <hi>Dragon.</hi>
+                  </l>
+               </lg>
+               <pb n="11" facs="tcp:101581:13"/>
+               <lg n="69">
+                  <l>69. Theſe for their rare atchievments</l>
+                  <l>ſo fam'd through by paſt Ages,</l>
+                  <l>He plac'd on high above the Sky</l>
+                  <l>among the heavenly Sages.</l>
+               </lg>
+               <lg n="70">
+                  <l>
+                     <note place="margin">♄ <hi>Saturn</hi> is bewitch'd.</note>70. The frozen corps of <hi>Saturn</hi>
+                  </l>
+                  <l>ſcarce capable of warming</l>
+                  <l>Conceived luſt, &amp; love he muſt</l>
+                  <l>bewitcht by <hi>Cupids</hi> charming.</l>
+               </lg>
+               <lg n="71">
+                  <l>
+                     <note place="margin">♄ applies to <g ref="char:Moon">☽</g>. He is a dull and ſlow pla<g ref="char:EOLhyphen"/>net, and de<g ref="char:EOLhyphen"/>notes old age. See the Latine.</note>71. And now he courted <hi>Luna,</hi>
+                  </l>
+                  <l>being all at her devotion,</l>
+                  <l>She ſaid, he's ſlow, old, and a foe,</l>
+                  <l>ſhe did not like his motion.</l>
+               </lg>
+               <lg n="72">
+                  <l>72. In rule ſhe'l own no Rivall</l>
+                  <l>in Love ſhe was provided;</l>
+                  <l>Return'd him ſcorns, and ſhew'd her horns,<note place="margin">♄ <hi>Saturn</hi> is re<g ref="char:EOLhyphen"/>trograde.</note>
+                  </l>
+                  <l>ſo he went away derided.</l>
+               </lg>
+               <lg n="73">
+                  <l>
+                     <note place="margin">
+                        <g ref="char:Moon">☽</g> applies to ☉ in her rapid motion.</note>73. She now in rapid motion</l>
+                  <l>enclin'd to <hi>Sol</hi>'s embraces,</l>
+                  <l>T' increaſe in Light, and look more bright</l>
+                  <l>then all the Ladies faces.</l>
+               </lg>
+               <lg n="74">
+                  <l>
+                     <note place="margin">☉ <hi>Sol.</hi> He is King of all the Stars. <hi>Poles</hi> 2.</note>74. But Oh! how <hi>Sol</hi> was wiſht for,</l>
+                  <l>who ſhould of right have reigned</l>
+                  <l>As lawfull King, o're ev'ry thing</l>
+                  <l>betwixt the <hi>Poles</hi> contained.</l>
+               </lg>
+               <lg n="75">
+                  <l>
+                     <note place="margin">Ecliptick &amp; Equinoctial lines. <hi>Noahs</hi>-Ark or the ſhip, a Conſt.</note>75. For <hi>Sol</hi> had left th' <hi>Ecliptick,</hi>
+                  </l>
+                  <l>and beyond the Line retired,</l>
+                  <l>And hid in th' <hi>Ark,</hi> which made it dark</l>
+                  <l>untill the time expired,</l>
+               </lg>
+               <pb n="12" facs="tcp:101581:14"/>
+               <lg n="76">
+                  <l>
+                     <note place="margin">
+                        <hi>Jupiter</hi> en<g ref="char:EOLhyphen"/>compaſſes the heavens in 12 years.</note>76. That <hi>Jupiter</hi> had marched</l>
+                  <l>through all the Signs in heaven,</l>
+                  <l>And ſcoured out that rebell-rout</l>
+                  <l>that <hi>Phaebus</hi> out had driven.</l>
+               </lg>
+               <lg n="77">
+                  <l>
+                     <note place="margin">☋ <hi>Dragons<g ref="char:EOLhyphen"/>tail</hi> an unfor<g ref="char:EOLhyphen"/>tunate part of heaven in Na<g ref="char:EOLhyphen"/>tivities.</note>77. Though many Stars appeared</l>
+                  <l>with zeal for <hi>Sol</hi> inflamed,</l>
+                  <l>The <hi>Dragons-tail</hi> made all to fail,</l>
+                  <l>while <hi>Fortunes-part</hi> was blamed.</l>
+               </lg>
+               <lg n="78">
+                  <l>
+                     <note place="margin">⚹ part of for<g ref="char:EOLhyphen"/>tune. <hi>Boötes</hi> a conſt. <hi>Charles<g ref="char:EOLhyphen"/>wain</hi> or the great Bear, a conſt.</note>78. At length a Northern Comet</l>
+                  <l>
+                     <hi>Boötes</hi> left his Station,</l>
+                  <l>With a goodly train from <hi>Charles his wain,</hi>
+                  </l>
+                  <l>and raiſ'd our expectation.</l>
+               </lg>
+               <lg n="79">
+                  <l>
+                     <note place="margin">
+                        <hi>Milky-way,</hi> a conſt.</note>79. By a milk-white way he marched</l>
+                  <l>direct to <hi>Sols</hi>
+                     <note n="*" place="margin">Whitehall.</note> fair Palace,</l>
+                  <l>Broke <hi>Dragons-tail,</hi> and th' <hi>Ark</hi> unvail'd</l>
+                  <l>to all the heavens Solace.</l>
+               </lg>
+               <lg n="80">
+                  <l>
+                     <note place="margin">♓ <hi>Piſces.</hi> ☉ in ♓.</note>80. And now the day was dawning</l>
+                  <l>by a beam from <hi>Sol</hi> in <hi>Piſces,</hi>
+                  </l>
+                  <l>Which put to flight that diſmal night,</l>
+                  <l>according to our wiſhes.</l>
+               </lg>
+               <lg n="81">
+                  <l>
+                     <note place="margin">Horizontal line.</note>81. Being now in the <hi>Horizon</hi>
+                  </l>
+                  <l>the rebells hearts relented,</l>
+                  <l>No <hi>Dog</hi> at th' <hi>Sun</hi> did move his tongue,</l>
+                  <l>the light was well reſented.</l>
+               </lg>
+               <lg n="82">
+                  <l>
+                     <note place="margin">Spheres. Apollo. Viol, Lyra, <hi>a conſt.</hi>
+                     </note>82. Heark how the <hi>Spheres</hi> ring changes!</l>
+                  <l>
+                     <hi>Apollo</hi> tunes his <hi>Viol;</hi>
+                  </l>
+                  <l>The Birds do Sing as in the Spring,</l>
+                  <l>and now all things are loyall.</l>
+               </lg>
+               <pb n="13" facs="tcp:101581:14"/>
+               <lg n="83">
+                  <l>
+                     <note place="margin">
+                        <hi>South-fiſhes;</hi> a conſt. <hi>Dolphin,</hi> a conſt. The heir to the <hi>French</hi> King is call'd the <hi>Dau<g ref="char:EOLhyphen"/>phine. Whale,</hi> a conſt. <hi>Meridian line. Northern Crown,</hi> a conſt.</note>83. I ſaw the <hi>Fiſhes</hi> frisking,</l>
+                  <l>to <hi>Apollo</hi>'s mirth conſorting;</l>
+                  <l>The <hi>Dolphin</hi> danc'd to a Tune of <hi>France,</hi>
+                  </l>
+                  <l>
+                     <hi>Leviathan</hi> was ſporting.</l>
+               </lg>
+               <lg n="84">
+                  <l>84. Now <hi>Sol</hi> is in's <hi>Meridian</hi>
+                  </l>
+                  <l>and of the Crown had ſeizure,</l>
+                  <l>Enjoyned peace all feuds to ceaſe</l>
+                  <l>on pain of's high diſpleaſure.</l>
+               </lg>
+               <lg n="85">
+                  <l>85. The Ancient Laws he ſtabliſht,</l>
+                  <l>all rights he re-eſtated,</l>
+                  <l>What's done by <hi>Jove</hi> he did approve,</l>
+                  <l>and 's Acts perpetuated.</l>
+               </lg>
+               <lg n="86">
+                  <l>
+                     <note place="margin">Orbs of the Planets. <hi>Mazaroth,</hi> 1. the 12 Signs of the <hi>Zodiack.</hi>
+                     </note>86. Aſſign'd the Stars their Stations,</l>
+                  <l>disbanded all their forces,</l>
+                  <l>None to diſturb, each keep his Orb,</l>
+                  <l>And <hi>Mazaroth</hi> their Courſes.</l>
+               </lg>
+               <lg n="87">
+                  <l>
+                     <note place="margin">Hemiſpheres 2. Zones 5. Poles 2. Parallels.</note>87. The <hi>Hemiſpheres</hi> he joyned,</l>
+                  <l>the <hi>Zones</hi> he moderated;</l>
+                  <l>The <hi>Poles</hi> renew their enterview,</l>
+                  <l>and <hi>Parallels</hi> were ſtated.</l>
+               </lg>
+               <lg n="88">
+                  <l>
+                     <note place="margin">
+                        <hi>Cup,</hi> a conſt. <hi>Triangle,</hi> a conſt.</note>88. And now the Stars were quaffing,</l>
+                  <l>the <hi>Cup</hi> ends all the wrangle;</l>
+                  <l>In perfect Trine they drank the wine,</l>
+                  <l>and hence came the Triangle.</l>
+               </lg>
+               <lg n="89">
+                  <l>
+                     <note place="margin">♃ his Orb is bet. ♄ and ♂ and ſo are his houſes.</note>89. To ſettle peace he order'd</l>
+                  <l>
+                     <hi>Saturn</hi> and <hi>Mars</hi> to ſever,</l>
+                  <l>Plac'd <hi>Jove</hi> between to keep them in,</l>
+                  <l>no more plots to endeavour.</l>
+               </lg>
+               <pb n="14" facs="tcp:101581:15"/>
+               <lg n="90">
+                  <l>90.<note place="margin">To drink <hi>Me<g ref="char:EOLhyphen"/>duſa:</hi> ſee the Latine.</note> Who forthwith drank <hi>Meduſa,</hi>
+                  </l>
+                  <l>and ſo began the notion,</l>
+                  <l>The Stars each one were fixt as ſtone,</l>
+                  <l>and never ſince had motion.</l>
+               </lg>
+               <lg n="91">
+                  <l>91.<note place="margin">This alludes to the Honour conſer'd his Majeſty on Gen. <hi>Monck,</hi> and the Star which is worn by the King and his Chief<g ref="char:EOLhyphen"/>eſt Nobility, which might moſt properly be called by this Epithete, the Star of <hi>Jupiter,</hi> the moſt excellent and brighteſt Star in heaven.</note> To ſuch as beſt had ſerv'd him</l>
+                  <l>he was a Princely Donour,</l>
+                  <l>And made the Star of <hi>Jupiter</hi>
+                  </l>
+                  <l>a badge of higheſt Honour.</l>
+               </lg>
+               <lg n="92">
+                  <l>92. An act of Royal Bounty</l>
+                  <l>he furthermore extended,</l>
+                  <l>By Pardon and Oblivion</l>
+                  <l>to all that had offended.</l>
+               </lg>
+               <lg n="93">
+                  <l>93. Nor would I've now tanſgreſſed</l>
+                  <l>in making this Relation,</l>
+                  <l>Save you to mind how th' King was kind</l>
+                  <l>upon his Reſtauration.</l>
+               </lg>
+               <lg n="94">
+                  <l>94. You wonder no Hiſtorian</l>
+                  <l>ſhould mention theſe diſaſters;</l>
+                  <l>Good reaſon why, none ſaw but I,</l>
+                  <l>and ſo farewel my Maſters.</l>
+               </lg>
+            </div>
+            <div xml:lang="lat" type="version">
+               <pb n="15" facs="tcp:101581:15"/>
+               <head>Lucubrationes Podagricae.</head>
+               <lg n="1">
+                  <l>
+                     <note place="margin">♑ Capricor<g ref="char:EOLhyphen"/>nus. ♄ Satur<g ref="char:EOLhyphen"/>nus. Infortuni<g ref="char:EOLhyphen"/>um majus. Pla<g ref="char:EOLhyphen"/>netarum altiſ<g ref="char:EOLhyphen"/>ſimus.</note>1.<hi>SAturnus Capricorno</hi>
+                  </l>
+                  <l>poſtremus Planetarum</l>
+                  <l>Oſtentat ſe Regem nocte</l>
+                  <l>ſpreto ordine Stellarum.</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <note place="margin">♑ Domus di<g ref="char:EOLhyphen"/>urna. ♄. ♄ <g ref="char:Moon">☽</g> ☍.</note>2. Is <hi>Lunae</hi> invidendo</l>
+                  <l>ſe mente cruciari</l>
+                  <l>Dixit, Sexum foemineum</l>
+                  <l>tam latè dominari.<note place="margin">Luna eſt minus Coeli lumen in natis domini<g ref="char:EOLhyphen"/>um coditum. Tropici duo ♋ &amp; ♑ ♋ domus <g ref="char:Moon">☽</g>.</note>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <l>3. Hanc infimam Stellarum</l>
+                  <l>&amp; Tropicum tenere!</l>
+                  <l>Quis toleret? mox decidet,</l>
+                  <l>quod jam vult promovere.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <note place="margin">Caſſiopeiae Cathedra, Syd. Andromeda, Syd.</note>4. Invidit <hi>Caſſiopeiae</hi>
+                  </l>
+                  <l>in Cathedrâ locatae;</l>
+                  <l>
+                     <hi>Andromedae</hi> Celicolae,</l>
+                  <l>
+                     <hi>Ariadnae</hi> Coronatae.<note place="margin">Ariadnes Co<g ref="char:dram">ʒ</g> rona, Syd.</note>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <l>5. Nec <hi>Geminis</hi> pepercit,</l>
+                  <l>infantes non amabat;<note place="margin">♊ Gemini. Coma Bereni<g ref="char:EOLhyphen"/>ces, Syd.</note>
+                  </l>
+                  <l>Cincinnum &amp; divelleret,</l>
+                  <l>his dictis intonabat.</l>
+               </lg>
+               <lg n="6">
+                  <l>6. Mulieres regnare!</l>
+                  <l>id univerſi vetant,</l>
+                  <l>Morigerae ſint foeminae</l>
+                  <l>ac à me Jura petant.</l>
+               </lg>
+               <pb n="16" facs="tcp:101581:16"/>
+               <lg n="7">
+                  <l>
+                     <note place="margin">♎ Aquarius, domus noctur<g ref="char:EOLhyphen"/>na Saturni.</note>7.<hi>Aquarium</hi> jam junxit,</l>
+                  <l>
+                     <hi>Marte</hi> commilitante,</l>
+                  <l>
+                     <hi>Centauro</hi> &amp; vaſtiſſimo,</l>
+                  <l>Coelo jam trepidante.<note place="margin">♄ ♂ ☌ Centanrus, Syd.</note>
+                  </l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <note place="margin">A planetarum aſpectibus tempeſtates o<g ref="char:EOLhyphen"/>riuntur.</note>8. A dicta Conjunctione</l>
+                  <l>Coeli obnubilantur,</l>
+                  <l>Flat Boreas, obſcuritas,</l>
+                  <l>tonitrua cauſantur.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <note place="margin">♋ Cancer. <g ref="char:Moon">☽</g> in ♋ in propriâ domo praepo<g ref="char:EOLhyphen"/>tens habetur, &amp; multò magis ſi ei approxime<g ref="char:EOLhyphen"/>tur Jupiter.</note>9. Huic <hi>Luna</hi> in <hi>Cancro</hi> ſita</l>
+                  <l>opponens ſaeviebat,</l>
+                  <l>Cornupetens velut demens</l>
+                  <l>quod ſuum jus poſcebat.</l>
+               </lg>
+               <lg n="10">
+                  <l>10. Haec radio <hi>Saturnum</hi>
+                  </l>
+                  <l>ſpeciali ſauciabat;</l>
+                  <l>Fit ſtatim is <hi>Lunaticus,</hi>
+                  </l>
+                  <l>&amp;<note n="*" place="margin">Poetae fingunt Saturnum filios ſuos devoraſſe omnes praeter unum, Jovem quem mater Ops è faucibus deliri ſenis ab<g ref="char:EOLhyphen"/>ſcondendo li<g ref="char:EOLhyphen"/>beravit.</note> natos devorabat.</l>
+               </lg>
+               <lg n="11">
+                  <l>11. Sed <hi>Jupiter</hi> Stellarum</l>
+                  <l>clariſſima ſurebat,</l>
+                  <l>Tàm Numine quàm Lumine</l>
+                  <l>qui omnes praecedebat.<note place="margin">♃ Jupiter Pla<g ref="char:EOLhyphen"/>netarum &amp; Stellarum cla<g ref="char:EOLhyphen"/>riſſimus.</note>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <l>12. Contra omnes graſſatores</l>
+                  <l>
+                     <hi>Lunae</hi> conſociatur,</l>
+                  <l>Cautiſſimus,<note place="margin">♃ dicitur for<g ref="char:EOLhyphen"/>tuna major.</note> Pacificus,</l>
+                  <l>&amp; ſtrenuus Bellator.<note place="margin">♃ <g ref="char:Moon">☽</g> ♂. Aiunt Jovem patrem ſuum Saturnum Ty<g ref="char:EOLhyphen"/>rannum de<g ref="char:EOLhyphen"/>poſuiſſe, &amp; Regno expu<g ref="char:EOLhyphen"/>liſſe.</note>
+                  </l>
+               </lg>
+               <lg n="13">
+                  <l>13. <hi>Saturnum</hi> probè novit</l>
+                  <l>contra ſe bellicare,</l>
+                  <l>Quem corriget, ut diſceret</l>
+                  <l>poſthac non combinare.</l>
+               </lg>
+               <pb n="17" facs="tcp:101581:16"/>
+               <lg n="14">
+                  <l>14. Haec ſecum ſtatuendo</l>
+                  <l>mox <hi>Aquilam</hi> dimiſit</l>
+                  <l>Ad vim, viam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                     <note place="margin">Aquila, Syd.</note> explorandam</l>
+                  <l>
+                     <hi>Caniculae</hi> commiſit.<note place="margin">Canicula 1. Procyon, Syd.</note>
+                  </l>
+               </lg>
+               <lg n="15">
+                  <l>15. Illa hoſtes infinitos</l>
+                  <l>clangendo dictitavit;</l>
+                  <l>Haec, ſingula calcant<note n="*" place="margin">Signa Zodia<g ref="char:EOLhyphen"/>ci 12.</note> Signa</l>
+                  <l>Zodiaci, elatravit.<note place="margin">Omnes Stellae proprio eorum motu verſus Orientem ver<g ref="char:EOLhyphen"/>gunt per Signa Zodiaci.</note>
+                  </l>
+               </lg>
+               <lg n="16">
+                  <l>16. Hic ſtatim convocavit</l>
+                  <l>Concilium Magorum,</l>
+                  <l>Quorum Geſta mira habita</l>
+                  <l>per Secula Majorum.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <note place="margin">Conſtellatio<g ref="char:EOLhyphen"/>nes humanae variae.</note>17.<hi>Antinous, Arcturus,</hi>
+                  </l>
+                  <l>
+                     <hi>Orion Ophiuchus,</hi>
+                  </l>
+                  <l>
+                     <hi>Caſtor, Pollux, Arctophylax,</hi>
+                  </l>
+                  <l>
+                     <hi>Cepheus</hi> &amp; <hi>Heniochus.</hi>
+                  </l>
+               </lg>
+               <lg n="18">
+                  <l>18. Summi fuerunt Duces</l>
+                  <l>hi Cohortum<note n="*" place="margin">1. Stellarum ſixarum.</note> ſtabilium,</l>
+                  <l>Qui undique reſtitêre</l>
+                  <l>commotibus Rebellium.</l>
+               </lg>
+               <lg n="19">
+                  <l>19. Sic Agmen ſtruxit<note n="*" place="margin">Ex Planetis 1. Stellis errati<g ref="char:EOLhyphen"/>cis.</note> volans</l>
+                  <l>Rebelles ut ſectetur,</l>
+                  <l>Ex <hi>Venere, Lunâ, Hermete,</hi>
+                  </l>
+                  <l>Ut per Signa venetur.<note place="margin">♃ <g ref="char:Moon">☽</g> ♀ ☿. ♂.</note>
+                  </l>
+               </lg>
+               <lg n="20">
+                  <l>20. Vexillifer fit <hi>Pavo</hi>
+                  </l>
+                  <l>ad dictas Legiones,<note place="margin">Pavo, Syd.</note>
+                  </l>
+                  <l>Tot fert <hi>Lunas</hi> caeruleas</l>
+                  <l>quot Conſtellationes.</l>
+               </lg>
+               <pb n="18" facs="tcp:101581:17"/>
+               <lg n="21">
+                  <l>
+                     <note place="margin">♌ Leo.</note>21. Pro tuba vox <hi>Leonis</hi>
+                  </l>
+                  <l>ad praelium ſonabat.</l>
+                  <l>
+                     <note place="margin">Conſtellatio<g ref="char:EOLhyphen"/>nes Brutorum variae.
+<list>
+                           <item>Lupus Syd.</item>
+                           <item>Equus Syd.</item>
+                           <item>Aries Syd.</item>
+                           <item>Taurus Syd.</item>
+                           <item>Ca. maj. Syd.</item>
+                           <item>Ca. min. Syd.</item>
+                           <item>Ur. maj. Syd.</item>
+                           <item>Ur. min. Syd.</item>
+                           <item>Draco Syd.</item>
+                           <item>Leo Syd.</item>
+                           <item>Serpens Syd.</item>
+                           <item>Hircus Syd.</item>
+                           <item>Lepus Syd.</item>
+                           <item>Aquila Syd.</item>
+                           <item>Vultur Syd.</item>
+                           <item>Corvus Syd.</item>
+                           <item>Cygnus Syd.</item>
+                           <item>Colum. Syd.</item>
+                           <item>Grus Syd.</item>
+                           <item>Pavo Syd.</item>
+                           <item>Phoenix. Syd.</item>
+                           <item>Ara. Syd.</item>
+                        </list>
+                     </note> Quam Pecorum Coeleſtium</l>
+                  <l>conſenſus augmentabat.</l>
+               </lg>
+               <lg n="22">
+                  <l>22. <hi>Lup.</hi> ululat, <hi>Eq.</hi> hinnit,</l>
+                  <l>Ar. blacterat, <hi>Tau.</hi> mugit,</l>
+               </lg>
+               <lg n="23">
+                  <l>23. <hi>Canes</hi> latrant, <hi>
+                        <g ref="char:V">Ʋ</g>rſae</hi> uncant,</l>
+                  <l>
+                     <hi>Dra.</hi> rancat, <hi>Leo</hi> rugit.</l>
+               </lg>
+               <lg n="24">
+                  <l>24. <hi>Ser.</hi> ſibilat. <hi>Hirc.</hi> mutit,</l>
+                  <l>
+                     <hi>Lep.</hi> vagit, <hi>Aqui.</hi> clangit,</l>
+               </lg>
+               <lg n="25">
+                  <l>25. <hi>Vultur</hi> pulpat, <hi>Cor.</hi> crocitat,</l>
+                  <l>
+                     <hi>Cig.</hi> drenſat, <hi>Colum.</hi> plangit.</l>
+               </lg>
+               <lg n="26">
+                  <l>26. <hi>Grus</hi> gruit, <hi>Pa.</hi> pupillat</l>
+                  <l>
+                     <hi>Phoenice</hi> tum flagrante</l>
+                  <l>In Arâ, poſſe ſurgere</l>
+                  <l>è cinere ſperante.</l>
+               </lg>
+               <lg n="27">
+                  <l>27. O horrida confuſio</l>
+                  <l>jam Coelos everſura!</l>
+                  <l>Hinc orta eſt diſcordia</l>
+                  <l>aeternùm duratura.</l>
+               </lg>
+               <lg n="28">
+                  <l>28. Non haſtis aut baliſtis</l>
+                  <l>ſed fulgure certare:</l>
+                  <l>Bombardae nequeant aequè</l>
+                  <l>vel enſes vulnerare.</l>
+               </lg>
+               <lg n="29">
+                  <l>29. Ad bellum jam parati</l>
+                  <l>hi rabie furebant,</l>
+                  <l>Nec quiſquam queat dicere</l>
+                  <l>quàm acriter pugnabant.</l>
+               </lg>
+               <pb n="19" facs="tcp:101581:17"/>
+               <lg n="30">
+                  <l>
+                     <note place="margin">♈ Aries deſig<g ref="char:EOLhyphen"/>nat faciem.</note>30.<hi>Arietem Jup.</hi> intrans</l>
+                  <l>à fronte adoriebatur</l>
+                  <l>Stantes Turmas ſat timidas,</l>
+                  <l>quas in <hi>Taurum</hi> ſectatur.<note place="margin">♉ Taurus.</note>
+                  </l>
+               </lg>
+               <lg n="31">
+                  <l>31. Hic Aciem Rebellium</l>
+                  <l>vidit tumultuantem,</l>
+                  <l>
+                     <hi>Quicquid libet cuiquam licet,</hi>
+                  </l>
+                  <l>pro cauſa declarantem.</l>
+               </lg>
+               <lg n="32">
+                  <l>
+                     <note place="margin">Inferi confede<g ref="char:EOLhyphen"/>raſſe ſinguntur cum Saturno &amp; Marte.</note>32. Hic <hi>Pluto, Proſerpina,</hi>
+                  </l>
+                  <l>ſic <hi>Cerberus</hi> &amp; <hi>Charon,</hi>
+                  </l>
+                  <l>Cum Furiis &amp; Harpyis</l>
+                  <l>conſcendunt <hi>Aldebaran.</hi>
+                  </l>
+               </lg>
+               <lg n="33">
+                  <l>33. Circumvolant, conclamant,</l>
+                  <l>ſceleſtè blaſphemantes,</l>
+                  <l>Pro Tartaris ſe jam Coelis</l>
+                  <l>fructuros opinantes.</l>
+               </lg>
+               <lg n="34">
+                  <l>34. <hi>Baſanis Tauri</hi> pingues</l>
+                  <l>unà coagmentare,</l>
+                  <l>Et vituli <hi>Nebatici</hi>
+                  </l>
+                  <l>cum <hi>Jove</hi> bellicare.<note place="margin">Sicut &amp; Idola,</note>
+                  </l>
+               </lg>
+               <lg n="35">
+                  <l>35. Sic <hi>Baal, Moloch, Rimmon,</hi>
+                  </l>
+                  <l>cum <hi>Bele</hi> &amp; <hi>Dracone,</hi>
+                  </l>
+                  <l>Et plurimis ejus gregis,</l>
+                  <l>
+                     <hi>Aſhtaroth</hi> &amp; <hi>Dagone.</hi>
+                  </l>
+               </lg>
+               <lg n="36">
+                  <l>
+                     <note place="margin">Et dii Ethnici.</note>36. Oracula Ethnicorum,</l>
+                  <l>
+                     <hi>Pan, Bacchus</hi> &amp; <hi>Priapus,</hi>
+                  </l>
+                  <l>Se jam Coelos poſſeſſuros</l>
+                  <l>oſtentant cum Deabus.</l>
+               </lg>
+               <pb n="20" facs="tcp:101581:18"/>
+               <lg n="37">
+                  <l>37. Inierant conſilium</l>
+                  <l>minas, caedes ſpirandi,</l>
+                  <l>Vel bonum, verum ac juſtum</l>
+                  <l>è Coelis extirpandi.</l>
+               </lg>
+               <lg>
+                  <l>horridiùs tonabat,</l>
+                  <l>Dum fulmina per aethera</l>
+                  <l>ſtupendiùs vibrabat.</l>
+               </lg>
+               <lg n="39">
+                  <l>39. En <hi>Taurum</hi> jam Coeleſtem</l>
+                  <l>catervis obvallatum,</l>
+                  <l>Intùs, extra, circumcirca</l>
+                  <l>fulgetris laceratum.</l>
+               </lg>
+               <lg n="40">
+                  <l>
+                     <note place="margin">Tauri poſticae partes in Glo<g ref="char:EOLhyphen"/>bo non depin<g ref="char:EOLhyphen"/>guntur, unicus etiam ejus no<g ref="char:EOLhyphen"/>tatur oculus, Aldebaran di<g ref="char:EOLhyphen"/>ctus, Stella de naturâ Martis admodum co<g ref="char:EOLhyphen"/>ruſcans.</note>40. Hunc vidi debacchantem</l>
+                  <l>poſticis mutilatum,</l>
+                  <l>Plagâ factum monoculum,</l>
+                  <l>ibidem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inflammatum.</l>
+               </lg>
+               <lg n="41">
+                  <l>41. Flammas ejaculatur</l>
+                  <l>jam quodlibet Aſtrorum,</l>
+                  <l>
+                     <hi>Canis</hi> licet plus praeſtitit</l>
+                  <l>
+                     <note place="margin">Canis major 1. Sirius, Stella primae magni<g ref="char:EOLhyphen"/>tudinis calores torridos ſolet excitare; unde dies Canicula<g ref="char:EOLhyphen"/>res.</note>quam quodvis caeterorum.</l>
+               </lg>
+               <lg n="42">
+                  <l>42. Tot <hi>Sirius</hi> exortus</l>
+                  <l>fulgetris enitere,</l>
+                  <l>Ut Inferos retrogrados</l>
+                  <l>hinc liceat videre.</l>
+               </lg>
+               <lg n="43">
+                  <l>
+                     <note place="margin">Cerberus Ca<g ref="char:EOLhyphen"/>nis Tartari tri<g ref="char:EOLhyphen"/>ceps.</note>43. Cum <hi>Cerbero</hi> contendens</l>
+                  <l>quem peſſimè ferebat,</l>
+                  <l>Fregit oſſa ſua ſingula,</l>
+                  <l>ne calva remanebat.</l>
+               </lg>
+               <pb n="21" facs="tcp:101581:18"/>
+               <lg n="44">
+                  <l>44. Ab hoc <hi>Tauri Baſanis</hi>
+                  </l>
+                  <l>in fruſtula confracti,</l>
+                  <l>A <hi>Cane</hi> utrique Vituli</l>
+                  <l>ceu in pulverem redacti.</l>
+               </lg>
+               <lg n="45">
+                  <l>45. Rebellibus fit dirum</l>
+                  <l>certamen non ferendum,</l>
+                  <l>Nec inde ſtant, quin terga dant,</l>
+                  <l>de quo nunc eſt dicendum.</l>
+               </lg>
+               <lg n="46">
+                  <l>46. Daemonia ad Gehennam</l>
+                  <l>&amp; Furiae amandantur;</l>
+                  <l>Ad <hi>Acheronta</hi> ſic <hi>Charon,</hi>
+                  </l>
+                  <l>Harpyiae lacerantur.</l>
+               </lg>
+               <lg n="47">
+                  <l>
+                     <note place="margin">Chriſto nato aiunt Pana ob<g ref="char:EOLhyphen"/>mutuiſſe.</note>47. Idola ad nil redacta,</l>
+                  <l>obmutuit <hi>Pan</hi> prorsùs,</l>
+                  <l>
+                     <hi>Draco</hi> crepat, ruit <hi>Priap.</hi>
+                  </l>
+                  <l>
+                     <hi>Bacchus</hi> vino ſubmerſus.</l>
+               </lg>
+               <lg n="48">
+                  <l>48. Vincuntur jam Rebelles,</l>
+                  <l>
+                     <note place="margin">Pleiades, Syd. in humero Tauri.</note>&amp; Turmae foederatae;</l>
+                  <l>Ob iſtam rem mirabilem</l>
+                  <l>ſunt <hi>Pleiades</hi> formatae:</l>
+               </lg>
+               <lg n="49">
+                  <l>49. Ut ſint futuris Seclis</l>
+                  <l>excellens monumentum,</l>
+                  <l>Quibus viſis fac oderis</l>
+                  <l>rebellandi commentum.</l>
+               </lg>
+               <lg n="50">
+                  <l>
+                     <note place="margin">Hyades, Syd. in facie Tauri fluvias ferens.</note>50. Sic <hi>Hyades</hi> paravit,</l>
+                  <l>ut celſo è Palatio</l>
+                  <l>Purgent coenum quod faetidum</l>
+                  <l>liquit Abominatio.</l>
+               </lg>
+               <pb n="22" facs="tcp:101581:19"/>
+               <lg n="51">
+                  <l>
+                     <note place="margin">Omnes Pla<g ref="char:EOLhyphen"/>netae moventur ſecundum nu<g ref="char:EOLhyphen"/>merum Signo<g ref="char:EOLhyphen"/>rum orientem verſus, motu quotidiano.</note>51. Rebelles jam ſectemur</l>
+                  <l>per Signa fugientes;</l>
+                  <l>Si quid cernunt id metuunt</l>
+                  <l>ceu larvam intuentes.</l>
+               </lg>
+               <lg n="52">
+                  <l>52. Dum proelio extinguuntur</l>
+                  <l>plùs irâ excanduerunt,</l>
+                  <l>Ad terendum <hi>Zodiacum,</hi>
+                  </l>
+                  <l>ni <hi>Jovem</hi> metuerunt.</l>
+               </lg>
+               <lg n="53">
+                  <l>
+                     <note place="margin">Phaethon Phoebi filius ex Clymene, qui cum à Patre impet<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſſet ut uno die Currus ſui habenas ſibi regendas permitteret, ab aurigandi imperitiâ toto Coelo errans mundum comburebat, quamobrem à Jove fulmine è Curru excuſſus, in Padum fluvium decidit.</note>53. De <hi>Phaethonte</hi> fictum</l>
+                  <l>ab his putares factum,</l>
+                  <l>Uſturis Spicam Virginis</l>
+                  <l>ut ſit de Coelis actum.</l>
+               </lg>
+               <lg n="54">
+                  <l>
+                     <note place="margin">Fridanus, flu<g ref="char:EOLhyphen"/>vius, Syd.</note>54. Id <hi>Jupiter</hi> praevenit</l>
+                  <l>
+                     <hi>Eridanum</hi> tollendo,</l>
+                  <l>Ejus undis perpetuis</l>
+                  <l>flagramen extinguendo.</l>
+               </lg>
+               <lg n="55">
+                  <l>
+                     <note place="margin">♎ Libra.</note>55. In <hi>Libram</hi> nunc fugati</l>
+                  <l>perpendunt diligenter,</l>
+                  <l>Ob vilius id facinus</l>
+                  <l>cui fato deſtinentur.</l>
+               </lg>
+               <lg n="56">
+                  <l>
+                     <note place="margin">♍ Scorpio, Se<g ref="char:EOLhyphen"/>creta reſpicit.</note>56. In <hi>Scorpium</hi> fugerunt</l>
+                  <l>ubi Scena jam mutatur,</l>
+                  <l>Cum fligens Corfurens ardor</l>
+                  <l>aliorſum transferatur.</l>
+               </lg>
+               <pb n="23" facs="tcp:101581:19"/>
+               <lg n="57">
+                  <l>
+                     <note place="margin">Cupido Deus amoris.</note>57. <hi>Cupido</hi> nam vexatus</l>
+                  <l>has caedes intuendo,</l>
+                  <l>Siſtit dira mox jurgia</l>
+                  <l>in jocum convertendo.</l>
+               </lg>
+               <lg n="58">
+                  <l>
+                     <note place="margin">♐ Sagittarius. Sagitta. Syd. Cor Scorpionis Stella ſecundae magnitudinis.</note>58. In <hi>Sagittario</hi> ſedens</l>
+                  <l>is incantato telo</l>
+                  <l>Transfixit <hi>Scorpionis</hi> Cor,</l>
+                  <l>ut fulgeat in Coelo.</l>
+               </lg>
+               <lg n="59">
+                  <l>
+                     <note place="margin">♍ Scorpio. Secreta regit.</note>59. Infantuli quâ Arte</l>
+                  <l>ſub <hi>Scorpione</hi> nati</l>
+                  <l>Libidini ſunt dediti,</l>
+                  <l>plus alii dicati.</l>
+               </lg>
+               <lg n="60">
+                  <l>
+                     <note place="margin">♀ Venus, ſaſ<g ref="char:EOLhyphen"/>cinata eſt.</note>60. Hic <hi>Venus</hi> fugientes</l>
+                  <l>vidit, ſed fraudulenter;</l>
+                  <l>Ipſa innocens <hi>Martem</hi> ſequens</l>
+                  <l>capta eſt incontinenter.</l>
+               </lg>
+               <lg n="61">
+                  <l>
+                     <note place="margin">♍ Domus Martis noctur<g ref="char:EOLhyphen"/>na. ♁ ♀ ☌.</note>61. Prehenſam domi ſuae</l>
+                  <l>humano tractat more,</l>
+                  <l>Ut conjungantur properant</l>
+                  <l>plus ſolito fervore.</l>
+               </lg>
+               <lg n="62">
+                  <l>
+                     <note place="margin">Vulcanus ma<g ref="char:EOLhyphen"/>ritus Veneris. ☿ Mercurius faſcinatus.</note>62. <hi>Vulcane</hi> jam caveto</l>
+                  <l>in te nam machinantur,</l>
+                  <l>Praeproperes quia jam Hermes</l>
+                  <l>oggannit petulanter.</l>
+               </lg>
+               <lg n="63">
+                  <l>
+                     <note place="margin">Inter deos O<g ref="char:EOLhyphen"/>rator habitus eſt.</note>63. E celſiori loco</l>
+                  <l>is caetui dicebat,</l>
+                  <l>Prae omnibus Numinibus</l>
+                  <l>
+                     <note n="*" place="margin">Non infulſe (inquit <hi>La<g ref="char:EOLhyphen"/>ctantius</hi>) quidam Poeta Triumphum Cupidinis ſcripſit, quem non modo potentiſſimum deorum ſed &amp; victorem facit. Cap. xi. de falſa Relig.</note> Cupidinem ferebat.</l>
+               </lg>
+               <pb n="24" facs="tcp:101581:20"/>
+               <lg n="64">
+                  <l>
+                     <note place="margin">Vulcani rete.</note>64. Cum reti admirando</l>
+                  <l>
+                     <hi>Vulcanus</hi> feſtinavit,</l>
+                  <l>Amaſios improviſos</l>
+                  <l>quo mox illaqueavit.</l>
+               </lg>
+               <lg n="65">
+                  <l>
+                     <note place="margin">♂ Mars eſt co<g ref="char:EOLhyphen"/>loris rubicun<g ref="char:EOLhyphen"/>di, ♀ Venus autem pallidi quae non appa<g ref="char:EOLhyphen"/>ret niſi manè ac veſperi. Jupiter canta<g ref="char:EOLhyphen"/>tus.</note>65. Erubuit <hi>Mars</hi> irâ</l>
+                  <l>
+                     <hi>Venus</hi> metu pallebat,</l>
+                  <l>Unde errare multâ nocte</l>
+                  <l>exinde non audebat.</l>
+               </lg>
+               <lg n="66">
+                  <l>66. Sic <hi>Jupiter</hi> cantatus</l>
+                  <l>egregiè ſcortatur,</l>
+                  <l>Dum <hi>Danae</hi> ſub ſpecie</l>
+                  <l>
+                     <note place="margin">Danaen viola<g ref="char:EOLhyphen"/>turus Jupiter aureos nummos in ſinum ejus infudit largiter.</note> imbris auri ſtupratur.</l>
+               </lg>
+               <lg n="67">
+                  <l>
+                     <note place="margin">Alcumena.</note>67. Mox deperit <hi>Alemenam</hi>
+                  </l>
+                  <l>blanditiis quam vicit;</l>
+                  <l>Miranda vis Cupidinis</l>
+                  <l>ſi <note n="*" place="margin">In Amphitru<g ref="char:EOLhyphen"/>one.</note> 
+                     <hi>Plautus</hi> vera dicit.</l>
+               </lg>
+               <lg n="68">
+                  <l>
+                     <note place="margin">Perſeus Jovis &amp; Danaes fili<g ref="char:EOLhyphen"/>us Meduſam Gorgona de<g ref="char:EOLhyphen"/>truncavit.</note>68. Ex illâ natus <hi>Perſeus</hi>
+                  </l>
+                  <l>Meduſam qui truncavit;</l>
+                  <l>Aſt <hi>Hercules</hi> ex hâc (ſcies)</l>
+                  <l>
+                     <note place="margin">Hercules Jovis &amp; Alcumenae filius Draco<g ref="char:EOLhyphen"/>nem trucida<g ref="char:EOLhyphen"/>vit.</note>
+                     <hi>Draconem</hi> trucidavit.</l>
+               </lg>
+               <lg n="69">
+                  <l>69. Hos ambos ob res geſtas</l>
+                  <l>quas Veteres mirari,</l>
+                  <l>
+                     <note place="margin">Perſeus, Syd. Caput Medu<g ref="char:EOLhyphen"/>ſae, Syd.</note>Ad Sydera coeleſtia</l>
+                  <l>jubebat elevari.</l>
+               </lg>
+               <lg n="70">
+                  <l>
+                     <note place="margin">Hercules, Syd. Draco, Syd.</note>70. Perfrigidus <hi>Saturnus</hi>
+                  </l>
+                  <l>à ſe quantum mutatus!</l>
+                  <pb n="25" facs="tcp:101581:20"/>
+                  <l>Priùs amens fit nunc amans,</l>
+                  <l>at planè faſcinatus.</l>
+               </lg>
+               <lg n="71">
+                  <l>71. Sollicitat jam <hi>Lunam</hi>
+                  </l>
+                  <l>
+                     <note place="margin">♄ ad <g ref="char:Moon">☽</g> appli<g ref="char:EOLhyphen"/>cat.</note>incoeptans adulari,</l>
+                  <l>Tam nitidam &amp; tam bellam</l>
+                  <l>nequit non admirari.</l>
+               </lg>
+               <lg n="71">
+                  <l>71. Cui <hi>Luna</hi> reſpondebat</l>
+                  <l>
+                     <note place="margin">Saturnus Pla<g ref="char:EOLhyphen"/>netarum tar<g ref="char:EOLhyphen"/>diſſimus, non niſi triginta annis cuncta Zodiaci ſigna pervadit, Luna verò motu ordinario diebus viginti octo. Ille ſenium denotar; atque hi duo Planetae Tropicis inter ſeſe ſitu oppoſitis praeſunt.</note>ſe tardum non morari,</l>
+                  <l>Nec huic Senem amabilem,</l>
+                  <l>ſe hoſti adverſari.</l>
+               </lg>
+               <lg n="72">
+                  <l>72. Rivalem Regni nolle,</l>
+                  <l>nec Amoris admittebat,</l>
+                  <l>Deliro hinc retrogrado</l>
+                  <l>
+                     <note place="margin">♄ retrogradus.</note>ſua Cornua tendebat.</l>
+               </lg>
+               <lg n="73">
+                  <l>
+                     <note place="margin">
+                        <g ref="char:Moon">☽</g> ad Solem applicat motu celeri — Cui tres motus at<g ref="char:EOLhyphen"/>tribuuntur tardus, mediocris, celer.</note>73. Haec rapidè movetur</l>
+                  <l>ad coitum cum Sole,</l>
+                  <l>Quo redditur ſplendidior</l>
+                  <l>hâc foemininâ prole.</l>
+               </lg>
+               <lg n="74">
+                  <l>74. Aſt heu! deſideratur</l>
+                  <l>qui regnum poſſideret</l>
+                  <l>
+                     <note place="margin">☉ Sol. Aſtrorum Rex.</note>Ut verè Rex, Coelorum grex</l>
+                  <l>cui ſubjicit deberet.</l>
+               </lg>
+               <lg n="75">
+                  <l>
+                     <note place="margin">Linea ecliptica &amp; aequinoctia<g ref="char:EOLhyphen"/>lis.</note>75. Nam Lineas linquendo</l>
+                  <l>utraſque <hi>Sol</hi> latebat</l>
+                  <pb n="26" facs="tcp:101581:21"/>
+                  <l>
+                     <note place="margin">Arca <hi>Nohae,</hi> i. navis, Syd.</note>Arcâ <hi>Nohae,</hi> hinc tenebrae</l>
+                  <l>ad tempus quo licebat</l>
+               </lg>
+               <lg n="76">
+                  <l>
+                     <note place="margin">Jupiter 12 Zo<g ref="char:EOLhyphen"/>diaci Signa percurrit duo<g ref="char:EOLhyphen"/>decim anno<g ref="char:EOLhyphen"/>rum ſpatio.</note>76. Ut <hi>Jupiter</hi> Coelorum</l>
+                  <l>Signa bis ſex percurrat,</l>
+                  <l>Rebelles &amp; exterminet</l>
+                  <l>à quibus pulſus erat.</l>
+               </lg>
+               <lg n="77">
+                  <l>77. Plures videbam Stellas</l>
+                  <l>huc, illuc ſcintillantes,</l>
+                  <l>Tam calore quàm lumine</l>
+                  <l>pro Sole dimicantes.</l>
+               </lg>
+               <lg n="77">
+                  <l>
+                     <note place="margin">☋ Cauda dra<g ref="char:EOLhyphen"/>conis eſt pars Coeli admo<g ref="char:EOLhyphen"/>dum infortu<g ref="char:EOLhyphen"/>nata.</note>77. Quarum Conatus <hi>Cauda<g ref="char:EOLhyphen"/>draconis</hi>
+                  </l>
+                  <l>fruſtrabatur,</l>
+                  <l>Dum Pars-fortunae miſerae</l>
+                  <l>à plurimis culpatur.</l>
+               </lg>
+               <lg n="78">
+                  <l>
+                     <note place="margin">⚹ Pars for<g ref="char:EOLhyphen"/>tunae queat eſ<g ref="char:EOLhyphen"/>ſe bona vel mala reſpectu loci in quo re<g ref="char:EOLhyphen"/>peritur. Boötes Syd.</note>78. Ex <hi>Aquilone</hi> tandem</l>
+                  <l>
+                     <hi>Boötes</hi> aſſurgebat,</l>
+                  <l>Aciem minorum Luminum</l>
+                  <l>ducendo ſpem praebebat.</l>
+               </lg>
+               <lg n="79">
+                  <l>79. Ab <hi>Arcto, Galaxiâ</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Arctus, Syd. Galaxia, Syd.</note>Heliopolin adivit,</l>
+                  <l>
+                     <hi>Caudam-draconis</hi> illico</l>
+                  <l>is penitus attrivit.</l>
+               </lg>
+               <lg n="80">
+                  <l>80. Hinc Radii Solares</l>
+                  <l>paulatim effulſëre,</l>
+                  <l>Et nebulae peſtiferae</l>
+                  <l>ad vota vanuëre.</l>
+               </lg>
+               <pb n="27" facs="tcp:101581:21"/>
+               <lg n="81">
+                  <l>81. Ex Horizonte lucet;</l>
+                  <l>Rebelles ſtupuerunt,</l>
+                  <l>Et ſinguli malevoli</l>
+                  <l>attoniti ſteterunt.</l>
+               </lg>
+               <lg n="82">
+                  <l>82. St! Muſicam Sphaerarum!</l>
+                  <l>
+                     <note place="margin">Lyra, Syd.</note>
+                     <hi>Apollo</hi> tangit <hi>Lyram;</hi>
+                  </l>
+                  <l>Pangunt Aves vere hilares,</l>
+                  <l>&amp; quiſque ponit iram.</l>
+               </lg>
+               <lg n="83">
+                  <l>
+                     <note place="margin">♓ Piſces. Delphin, Syd. Balaena, Syd.</note>83. <hi>Apollini</hi> conformis</l>
+                  <l>
+                     <hi>Piſciculus</hi> ſaltabat;</l>
+                  <l>
+                     <hi>Delphin</hi> ad Tonum <hi>Gallicum,</hi>
+                  </l>
+                  <l>
+                     <hi>Balaena</hi> triumphabat.</l>
+               </lg>
+               <lg n="84">
+                  <l>
+                     <note place="margin">Linea Meri<g ref="char:EOLhyphen"/>dionalis. Corona, Syd.</note>84. <hi>Sol</hi> culminans in Coelis</l>
+                  <l>Coronam ſibi tollit;</l>
+                  <l>Nullus (jubet) contenderet</l>
+                  <l>qui diſplicere nollet.</l>
+               </lg>
+               <lg n="85">
+                  <l>85. Patrum Conſcripta firmat,</l>
+                  <l>ſuum cuique ſtabilivit,</l>
+                  <l>
+                     <hi>Jovis</hi> partas victorias</l>
+                  <l>Trophaea<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſancivit.</l>
+               </lg>
+               <lg n="86">
+                  <l>86. Aſtris dat ſuos Poſtes</l>
+                  <l>
+                     <note place="margin">Mazaroth 1. duodecim Si<g ref="char:EOLhyphen"/>gna. Hemiſpheria Zonae 5. Poli 2. Paralleli,</note> Planetis &amp; movere;</l>
+                  <l>Eccentricè non currere</l>
+                  <l>nec <hi>Mazaroth</hi> audere.</l>
+               </lg>
+               <lg n="87">
+                  <l>87. Sic <hi>Hemiſpheria</hi> junxit,</l>
+                  <l>&amp; <hi>Zonas</hi> temperavit,</l>
+                  <l>Mundi <hi>Polos</hi> oppoſitos</l>
+                  <l>
+                     <hi>Parallelis</hi> ligavit.</l>
+               </lg>
+               <pb n="28" facs="tcp:101581:22"/>
+               <lg n="88">
+                  <l>
+                     <note place="margin">Crater, Syd. Trinus eſt a<g ref="char:EOLhyphen"/>ſpectus amici<g ref="char:EOLhyphen"/>tiae Triangu<g ref="char:EOLhyphen"/>lum, Syd.</note>88. Atque hoc Stellarum bellum</l>
+                  <l>
+                     <hi>Cratere</hi> jam peractum,</l>
+                  <l>In <hi>Trino</hi> ſtant dum compotant,</l>
+                  <l>
+                     <hi>Triangulum</hi> ſic factum.</l>
+               </lg>
+               <lg n="89">
+                  <l>
+                     <note place="margin">Inter ♄ &amp; ♂ collocatur ♃, tam reſpectu orbium quam domorum.</note>89. Ad pacem confirmandam</l>
+                  <l>maligni ſeparentur</l>
+                  <l>Juſſit, <hi>Jove</hi> interſtite,</l>
+                  <l>nè malum machinentur.</l>
+               </lg>
+               <lg n="90">
+                  <l>
+                     <note place="margin">Meduſam bi<g ref="char:EOLhyphen"/>bere: Lex po<g ref="char:EOLhyphen"/>culorum apud exteros, quà ſancitur, quo<g ref="char:EOLhyphen"/>ties aliquis è compotoribus captatâ Sociorum ridiculâ &amp; temu<g ref="char:EOLhyphen"/>lentà geſticulatione Meduſam ſubitò increpitaverit, ut omnes in eodem ſtatu, quaſi in Saxa obriguerint, fixi permaneant, dum ille prolongato ex induſtriâ hauſtu ſe proluens, caeteros intereà toti Sodalitio propinat deridendos. Hiſtoriam Meduſae inde re<g ref="char:EOLhyphen"/>ſpiciunt, quam ob inſignem pulchritudinem, praecipuè ob crines aureos nitidè criſpatos Neptunum deperiſſe aiunt, &amp; in Minervae Templo compreſtiſſe. Hujus verò capillos irata Dea in angues mutabat, hoc ſuperaddito incantamento, ut quicun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> eam in<g ref="char:EOLhyphen"/>ſpicerent in lapides ſtatim converterentur. Ejus autem Caput à Perſeo antedicto, Jovis &amp; Danaes Filio, detruncatum, cum eo inter Sydera collocatur.</note>90. Qui mox bibens Meduſam</l>
+                  <l>inſtituebat ritum,</l>
+                  <l>Ut immota ſtent Sydera</l>
+                  <l>nec variarent ſitum.</l>
+               </lg>
+               <lg n="91">
+                  <l>
+                     <note place="margin">Hoc reſpicit Honorem à Sereniſſimo Rege <hi>Albe<g ref="char:EOLhyphen"/>marliae</hi> Duci collatum, &amp; Stellam quó Equitum nobiliſſimorum ſummi Ordinis auratae Pe<g ref="char:EOLhyphen"/>riſcelidis decorantur pallia, cui propriè Jovis Epitheton addi queat, ſi ita digniſſimis Armorum Regibus videretur congruum.</note>91. Fidelibus <hi>Athletis</hi>
+                  </l>
+                  <l>dat teſſeras Favoris,</l>
+                  <l>Stellam <hi>Jovis</hi> digniſſimis</l>
+                  <l>inſigne vult honoris.</l>
+               </lg>
+               <pb n="29" facs="tcp:101581:22"/>
+               <lg n="92">
+                  <l>92. Diploma jam Regale</l>
+                  <l>profert ſacratâ mente,</l>
+                  <l>Tam Veniae quàm Amneſtiae</l>
+                  <l>pro quovis delinquente.</l>
+               </lg>
+               <lg n="93">
+                  <l>93. Nec ſanè hos tumultus,</l>
+                  <l>nec bella recitarem,</l>
+                  <l>Ni eximiam Clementiam</l>
+                  <l>Regis ut decantarem.</l>
+               </lg>
+               <lg n="94">
+                  <l>94. In his Aſtronomorum</l>
+                  <l>ſilentio favete;</l>
+                  <l>Haec ratio, ſolummodò</l>
+                  <l>ego vidi, Valete.</l>
+               </lg>
+            </div>
+            <div xml:lang="grc" type="version">
+               <pb facs="tcp:101581:23"/>
+               <pb n="31" facs="tcp:101581:23"/>
+               <head>ἈΣΤΡΟΜΑΧΙ'Α.</head>
+               <lg n="1">
+                  <l>
+                     <note place="margin">♑. ♄ 1. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>1. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="2">
+                  <l>2. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="3">
+                  <l>3. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>!</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="4">
+                  <l>4. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="5">
+                  <l>
+                     <note place="margin">♊.</note>5. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="6">
+                  <l>6. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="32" facs="tcp:101581:24"/>
+               <lg n="7">
+                  <l>
+                     <note place="margin">♒. ♂ <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>7. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="8">
+                  <l>8. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <note place="margin">♋. <g ref="char:Moon">☽</g> 
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>9. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="10">
+                  <l>10. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <note place="margin">♃ <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>11. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="12">
+                  <l>12. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="13">
+                  <l>13. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="33" facs="tcp:101581:24"/>
+               <lg n="14">
+                  <l>14. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="15">
+                  <l>15. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="16">
+                  <l>16. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="17">
+                  <l>17. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="18">
+                  <l>18. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="19">
+                  <l>19. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="20">
+                  <l>20. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="34" facs="tcp:101581:25"/>
+               <lg n="21">
+                  <l>21. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="22">
+                  <l>22. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="23">
+                  <l>23. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="24">
+                  <l>24. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="25">
+                  <l>25. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="26">
+                  <l>26. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="35" facs="tcp:101581:25"/>
+               <lg n="27">
+                  <l>27. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="28">
+                  <l>28. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="29">
+                  <l>29. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="30">
+                  <l>
+                     <note place="margin">♈.</note>30. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <note place="margin">♉.</note>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="31">
+                  <l>31. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="32">
+                  <l>32. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="33">
+                  <l>33. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="36" facs="tcp:101581:26"/>
+               <lg n="34">
+                  <l>34. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="35">
+                  <l>35. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="36">
+                  <l>36. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="37">
+                  <l>37. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="38">
+                  <l>38. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="39">
+                  <l>39. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="40">
+                  <l>40. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="37" facs="tcp:101581:26"/>
+               <lg n="41">
+                  <l>41. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="42">
+                  <l>42. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="43">
+                  <l>43. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="44">
+                  <l>44. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="45">
+                  <l>45. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="46">
+                  <l>46. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="47">
+                  <l>47. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="38" facs="tcp:101581:27"/>
+               <lg n="48">
+                  <l>48. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="49">
+                  <l>49. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="50">
+                  <l>50. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="51">
+                  <l>51. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="52">
+                  <l>52. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="53">
+                  <l>53. <note place="margin">♍.</note>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="54">
+                  <l>54. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="39" facs="tcp:101581:27"/>
+               <lg n="55">
+                  <l>
+                     <note place="margin">♎</note>55. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="56">
+                  <l>
+                     <note place="margin">m.</note>56. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="57">
+                  <l>
+                     <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>57. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="58">
+                  <l>
+                     <note place="margin">♐.</note>58. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="59">
+                  <l>59. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="60">
+                  <l>
+                     <note place="margin">♀ <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>60. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="61">
+                  <l>61. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="40" facs="tcp:101581:28"/>
+               <lg n="62">
+                  <l>
+                     <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>62. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <note place="margin">☿ <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="63">
+                  <l>
+                     <note n="♀" place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>63. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="64">
+                  <l>64. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="65">
+                  <l>65. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="66">
+                  <l>66. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="67">
+                  <l>67. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="68">
+                  <l>68. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="41" facs="tcp:101581:28"/>
+               <lg n="69">
+                  <l>69. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="70">
+                  <l>70. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="71">
+                  <l>71. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="72">
+                  <l>72. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="72">
+                  <l>72. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="73">
+                  <l>73. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <note place="margin">☉ <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="74">
+                  <l>74. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="42" facs="tcp:101581:29"/>
+               <lg n="75">
+                  <l>75. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+               </lg>
+               <lg n="76">
+                  <l>76. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="77">
+                  <l>77. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="77">
+                  <l>77. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="78">
+                  <l>78. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="79">
+                  <l>79.<gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="80">
+                  <l>80. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="43" facs="tcp:101581:29"/>
+               <lg n="81">
+                  <l>81. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="82">
+                  <l>82. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>!</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="83">
+                  <l>83. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="84">
+                  <l>84. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="85">
+                  <l>85. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="86">
+                  <l>86. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="87">
+                  <l>87. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <pb n="44" facs="tcp:101581:30"/>
+               <lg n="88">
+                  <l>88. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="89">
+                  <l>89. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="90">
+                  <l>90. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="91">
+                  <l>91. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <note place="margin">⚹</note>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="92">
+                  <l>92. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="93">
+                  <l>93. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="94">
+                  <l>94. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:101581:30"/>
+            <head>Saeviente alio Paroxiſmo ſic cecini.</head>
+            <epigraph>
+               <q>Tollere nodoſam neſcit Medicina Podagram.</q>
+            </epigraph>
+            <lg>
+               <l>TOllere <hi>Subjectum circa quod</hi> Filius Artis</l>
+               <l>verſatur, normis Ars vetat ipſa ſuis.</l>
+               <l>De morbis tractans <hi>Medicina</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eſſet,</l>
+               <l>illorum ſi quos <hi>tolleret</hi> arte ſuâ.</l>
+               <l>Quin <hi>curat,</hi> Cauſas librans, Symptomata ſcindens,</l>
+               <l>donec mors veniens ſtraver it Artis opus.</l>
+               <l>Unicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> malo bona fert Medicamina <hi>Chiron,</hi>
+               </l>
+               <l>at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>malo nodo</hi> par <hi>malus</hi> eſt <hi>cuneus.</hi>
+               </l>
+               <l>Nodos diſſolvens, dicar curare <hi>Podagram</hi>
+               </l>
+               <l>ſi <hi>brevior</hi> fiat, ſit licet uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>redux.</hi>
+               </l>
+               <l>Mox ergo efficiam ne ſit tam longa <hi>Podagra,</hi>
+               </l>
+               <l>quod praeſtare tamen non <hi>Medicina</hi> valet.</l>
+               <l>En quantum è medio dirae jam tollo <hi>Podagrae</hi>
+               </l>
+               <l>ut gratum Arthriticis fecero! ſit <hi>Podagra.</hi>
+               </l>
+               <l>At ſi <hi>Patrono Diodorus</hi> ſoſtra metenti</l>
+               <l>non dederit, ſaciam ut longa <hi>Chiragra</hi> ſiet,</l>
+               <l>Ejus &amp; atticulis <hi>nodos</hi> infigere cogar,</l>
+               <l>ſentiat ut poenas ſe meruiſſe graves.</l>
+               <l>Sors ſat digna ſui, digitis qui ſemper aduncis</l>
+               <l>aera ſibi cumulat, nil<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> rependit al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:101581:31"/>
+            <head>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <lg>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <note n="*" place="margin">Pes claudicans propter vocabulum Artis.</note> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+            <trailer>ΤΕΛΟΣ</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:101581:31"/>
+            <head>ERRATA.</head>
+            <p>PAg. 3. lin. 22. read <hi>óut</hi> of Sag. p. 4. l. 7. r. <hi>which</hi> he. p. 7. Numb. 42. l. 4. r. <hi>ſoon.</hi> p. 9. n. 59. l. 2. r. <hi>reſpected.</hi> l. 4. r. <hi>directed.</hi> in the marg. l. 2. r. ♏ Scorpio. l. 16. r. ♏ the. p. 15. n. 4. l. 4. r. <hi>Ari<g ref="char:EOLhyphen"/>adni.</hi> marg. l. 12. r. <hi>noctis.</hi> p. 16. n. 10. l. 4. r. ſit <hi>protinus.</hi> p. 21. marg. l. penult. r. ♏. p. 23. marg. l. 10. r. ♏. p. 25. n. 74. l. 4. r. <hi>Subjici.</hi> l. 31. n. 4. l. 2. r. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
